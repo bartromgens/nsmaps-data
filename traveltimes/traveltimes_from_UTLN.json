@@ -1,1162 +1,1162 @@
 {
     "stations": [
         {
-            "id": "WV",
-            "name": "Wolvega",
+            "id": "UTLN",
+            "name": "Utrecht Lunetten",
             "travel_time_min": 0,
             "travel_time_planned": "0:00"
         },
         {
             "id": "HT",
             "name": "'s-Hertogenbosch",
-            "travel_time_min": 134,
-            "travel_time_planned": "2:14"
+            "travel_time_min": 37,
+            "travel_time_planned": "0:37"
         },
         {
             "id": "HTO",
             "name": "'s-Hertogenbosch Oost",
-            "travel_time_min": 148,
-            "travel_time_planned": "2:28"
+            "travel_time_min": 68,
+            "travel_time_planned": "1:08"
         },
         {
             "id": "HDE",
             "name": "'t Harde",
-            "travel_time_min": 60,
-            "travel_time_planned": "1:00"
+            "travel_time_min": 79,
+            "travel_time_planned": "1:19"
         },
         {
             "id": "ATN",
             "name": "Aalten",
-            "travel_time_min": 143,
-            "travel_time_planned": "2:23"
+            "travel_time_min": 117,
+            "travel_time_planned": "1:57"
         },
         {
             "id": "AC",
             "name": "Abcoude",
-            "travel_time_min": 123,
-            "travel_time_planned": "2:03"
-        },
-        {
-            "id": "AKM",
-            "name": "Akkrum",
-            "travel_time_min": 15,
-            "travel_time_planned": "0:15"
-        },
-        {
-            "id": "AMR",
-            "name": "Alkmaar",
-            "travel_time_min": 159,
-            "travel_time_planned": "2:39"
-        },
-        {
-            "id": "AMRN",
-            "name": "Alkmaar Noord",
-            "travel_time_min": 166,
-            "travel_time_planned": "2:46"
-        },
-        {
-            "id": "AML",
-            "name": "Almelo",
-            "travel_time_min": 83,
-            "travel_time_planned": "1:23"
-        },
-        {
-            "id": "AMRI",
-            "name": "Almelo de Riet",
-            "travel_time_min": 86,
-            "travel_time_planned": "1:26"
-        },
-        {
-            "id": "ALMB",
-            "name": "Almere Buiten",
-            "travel_time_min": 88,
-            "travel_time_planned": "1:28"
-        },
-        {
-            "id": "ALM",
-            "name": "Almere Centrum",
-            "travel_time_min": 80,
-            "travel_time_planned": "1:20"
-        },
-        {
-            "id": "ALMM",
-            "name": "Almere Muziekwijk",
-            "travel_time_min": 92,
-            "travel_time_planned": "1:32"
-        },
-        {
-            "id": "ALMO",
-            "name": "Almere Oostvaarders",
-            "travel_time_min": 103,
-            "travel_time_planned": "1:43"
-        },
-        {
-            "id": "ALMP",
-            "name": "Almere Parkwijk",
-            "travel_time_min": 97,
-            "travel_time_planned": "1:37"
-        },
-        {
-            "id": "AMPO",
-            "name": "Almere Poort",
-            "travel_time_min": 95,
-            "travel_time_planned": "1:35"
-        },
-        {
-            "id": "APN",
-            "name": "Alphen a/d Rijn",
-            "travel_time_min": 135,
-            "travel_time_planned": "2:15"
-        },
-        {
-            "id": "AMF",
-            "name": "Amersfoort",
-            "travel_time_min": 78,
-            "travel_time_planned": "1:18"
-        },
-        {
-            "id": "AMFS",
-            "name": "Amersfoort Schothorst",
-            "travel_time_min": 96,
-            "travel_time_planned": "1:36"
-        },
-        {
-            "id": "AVAT",
-            "name": "Amersfoort Vathorst",
-            "travel_time_min": 93,
-            "travel_time_planned": "1:33"
-        },
-        {
-            "id": "ASA",
-            "name": "Amsterdam Amstel",
-            "travel_time_min": 125,
-            "travel_time_planned": "2:05"
-        },
-        {
-            "id": "ASB",
-            "name": "Amsterdam Bijlmer ArenA",
-            "travel_time_min": 114,
-            "travel_time_planned": "1:54"
-        },
-        {
-            "id": "ASD",
-            "name": "Amsterdam Centraal",
-            "travel_time_min": 106,
-            "travel_time_planned": "1:46"
-        },
-        {
-            "id": "ASHD",
-            "name": "Amsterdam Holendrecht",
-            "travel_time_min": 119,
-            "travel_time_planned": "1:59"
-        },
-        {
-            "id": "ASDL",
-            "name": "Amsterdam Lelylaan",
-            "travel_time_min": 121,
-            "travel_time_planned": "2:01"
-        },
-        {
-            "id": "ASDM",
-            "name": "Amsterdam Muiderpoort",
-            "travel_time_min": 114,
-            "travel_time_planned": "1:54"
-        },
-        {
-            "id": "RAI",
-            "name": "Amsterdam RAI",
-            "travel_time_min": 120,
-            "travel_time_planned": "2:00"
-        },
-        {
-            "id": "ASSP",
-            "name": "Amsterdam Science Park",
-            "travel_time_min": 111,
-            "travel_time_planned": "1:51"
-        },
-        {
-            "id": "ASS",
-            "name": "Amsterdam Sloterdijk",
-            "travel_time_min": 121,
-            "travel_time_planned": "2:01"
-        },
-        {
-            "id": "ASDZ",
-            "name": "Amsterdam Zuid",
-            "travel_time_min": 101,
-            "travel_time_planned": "1:41"
-        },
-        {
-            "id": "ANA",
-            "name": "Anna Paulowna",
-            "travel_time_min": 187,
-            "travel_time_planned": "3:07"
-        },
-        {
-            "id": "APD",
-            "name": "Apeldoorn",
-            "travel_time_min": 81,
-            "travel_time_planned": "1:21"
-        },
-        {
-            "id": "APDM",
-            "name": "Apeldoorn De Maten",
-            "travel_time_min": 91,
-            "travel_time_planned": "1:31"
-        },
-        {
-            "id": "APDO",
-            "name": "Apeldoorn Osseveld",
-            "travel_time_min": 88,
-            "travel_time_planned": "1:28"
-        },
-        {
-            "id": "APG",
-            "name": "Appingedam",
-            "travel_time_min": 130,
-            "travel_time_planned": "2:10"
-        },
-        {
-            "id": "AKL",
-            "name": "Arkel",
-            "travel_time_min": 171,
-            "travel_time_planned": "2:51"
-        },
-        {
-            "id": "ARN",
-            "name": "Arnemuiden",
-            "travel_time_min": 258,
-            "travel_time_planned": "4:18"
-        },
-        {
-            "id": "AH",
-            "name": "Arnhem Centraal",
-            "travel_time_min": 104,
-            "travel_time_planned": "1:44"
-        },
-        {
-            "id": "AHPR",
-            "name": "Arnhem Presikhaaf",
-            "travel_time_min": 115,
-            "travel_time_planned": "1:55"
-        },
-        {
-            "id": "AHP",
-            "name": "Arnhem Velperpoort",
-            "travel_time_min": 118,
-            "travel_time_planned": "1:58"
-        },
-        {
-            "id": "AHZ",
-            "name": "Arnhem Zuid",
-            "travel_time_min": 114,
-            "travel_time_planned": "1:54"
-        },
-        {
-            "id": "ASN",
-            "name": "Assen",
-            "travel_time_min": 53,
-            "travel_time_planned": "0:53"
-        },
-        {
-            "id": "BRN",
-            "name": "Baarn",
-            "travel_time_min": 91,
-            "travel_time_planned": "1:31"
-        },
-        {
-            "id": "NSCH",
-            "name": "Bad Nieuweschans",
-            "travel_time_min": 154,
-            "travel_time_planned": "2:34"
-        },
-        {
-            "id": "BF",
-            "name": "Baflo",
-            "travel_time_min": 94,
-            "travel_time_planned": "1:34"
-        },
-        {
-            "id": "BRD",
-            "name": "Barendrecht",
-            "travel_time_min": 167,
-            "travel_time_planned": "2:47"
-        },
-        {
-            "id": "BNC",
-            "name": "Barneveld Centrum",
-            "travel_time_min": 108,
-            "travel_time_planned": "1:48"
-        },
-        {
-            "id": "BNN",
-            "name": "Barneveld Noord",
-            "travel_time_min": 105,
-            "travel_time_planned": "1:45"
-        },
-        {
-            "id": "BNZ",
-            "name": "Barneveld Zuid",
-            "travel_time_min": 111,
-            "travel_time_planned": "1:51"
-        },
-        {
-            "id": "BDM",
-            "name": "Bedum",
-            "travel_time_min": 114,
-            "travel_time_planned": "1:54"
-        },
-        {
-            "id": "BK",
-            "name": "Beek-Elsloo",
-            "travel_time_min": 235,
-            "travel_time_planned": "3:55"
-        },
-        {
-            "id": "BSD",
-            "name": "Beesd",
-            "travel_time_min": 157,
-            "travel_time_planned": "2:37"
-        },
-        {
-            "id": "BL",
-            "name": "Beilen",
             "travel_time_min": 43,
             "travel_time_planned": "0:43"
         },
         {
-            "id": "BGN",
-            "name": "Bergen op Zoom",
-            "travel_time_min": 217,
-            "travel_time_planned": "3:37"
-        },
-        {
-            "id": "BET",
-            "name": "Best",
-            "travel_time_min": 186,
-            "travel_time_planned": "3:06"
-        },
-        {
-            "id": "BV",
-            "name": "Beverwijk",
-            "travel_time_min": 160,
-            "travel_time_planned": "2:40"
-        },
-        {
-            "id": "BHV",
-            "name": "Bilthoven",
-            "travel_time_min": 114,
-            "travel_time_planned": "1:54"
-        },
-        {
-            "id": "BR",
-            "name": "Blerick",
-            "travel_time_min": 195,
-            "travel_time_planned": "3:15"
-        },
-        {
-            "id": "BLL",
-            "name": "Bloemendaal",
-            "travel_time_min": 147,
-            "travel_time_planned": "2:27"
-        },
-        {
-            "id": "BDG",
-            "name": "Bodegraven",
-            "travel_time_min": 127,
-            "travel_time_planned": "2:07"
-        },
-        {
-            "id": "BN",
-            "name": "Borne",
-            "travel_time_min": 92,
-            "travel_time_planned": "1:32"
-        },
-        {
-            "id": "BSK",
-            "name": "Boskoop",
-            "travel_time_min": 157,
-            "travel_time_planned": "2:37"
-        },
-        {
-            "id": "BHDV",
-            "name": "Boven-Hardinxveld",
-            "travel_time_min": 188,
-            "travel_time_planned": "3:08"
-        },
-        {
-            "id": "BKF",
-            "name": "Bovenkarspel Flora",
-            "travel_time_min": 176,
-            "travel_time_planned": "2:56"
-        },
-        {
-            "id": "BKG",
-            "name": "Bovenkarspel-Grootebroek",
-            "travel_time_min": 173,
-            "travel_time_planned": "2:53"
-        },
-        {
-            "id": "BMR",
-            "name": "Boxmeer",
-            "travel_time_min": 157,
-            "travel_time_planned": "2:37"
-        },
-        {
-            "id": "BTL",
-            "name": "Boxtel",
-            "travel_time_min": 173,
-            "travel_time_planned": "2:53"
-        },
-        {
-            "id": "BD",
-            "name": "Breda",
-            "travel_time_min": 179,
-            "travel_time_planned": "2:59"
-        },
-        {
-            "id": "BDPB",
-            "name": "Breda-Prinsenbeek",
-            "travel_time_min": 186,
-            "travel_time_planned": "3:06"
-        },
-        {
-            "id": "BKL",
-            "name": "Breukelen",
-            "travel_time_min": 132,
-            "travel_time_planned": "2:12"
-        },
-        {
-            "id": "BMN",
-            "name": "Brummen",
-            "travel_time_min": 97,
-            "travel_time_planned": "1:37"
-        },
-        {
-            "id": "BP",
-            "name": "Buitenpost",
-            "travel_time_min": 51,
-            "travel_time_planned": "0:51"
-        },
-        {
-            "id": "BDE",
-            "name": "Bunde",
-            "travel_time_min": 240,
-            "travel_time_planned": "4:00"
-        },
-        {
-            "id": "BNK",
-            "name": "Bunnik",
-            "travel_time_min": 115,
-            "travel_time_planned": "1:55"
-        },
-        {
-            "id": "BSMZ",
-            "name": "Bussum Zuid",
-            "travel_time_min": 104,
-            "travel_time_planned": "1:44"
-        },
-        {
-            "id": "CPS",
-            "name": "Capelle Schollevaar",
-            "travel_time_min": 134,
-            "travel_time_planned": "2:14"
-        },
-        {
-            "id": "CAS",
-            "name": "Castricum",
-            "travel_time_min": 147,
-            "travel_time_planned": "2:27"
-        },
-        {
-            "id": "CVM",
-            "name": "Chevremont",
-            "travel_time_min": 257,
-            "travel_time_planned": "4:17"
-        },
-        {
-            "id": "CO",
-            "name": "Coevorden",
-            "travel_time_min": 82,
-            "travel_time_planned": "1:22"
-        },
-        {
-            "id": "CK",
-            "name": "Cuijk",
-            "travel_time_min": 150,
-            "travel_time_planned": "2:30"
-        },
-        {
-            "id": "CL",
-            "name": "Culemborg",
-            "travel_time_min": 123,
-            "travel_time_planned": "2:03"
-        },
-        {
-            "id": "DA",
-            "name": "Daarlerveen",
-            "travel_time_min": 86,
-            "travel_time_planned": "1:26"
-        },
-        {
-            "id": "DLN",
-            "name": "Dalen",
-            "travel_time_min": 108,
-            "travel_time_planned": "1:48"
-        },
-        {
-            "id": "DL",
-            "name": "Dalfsen",
-            "travel_time_min": 49,
-            "travel_time_planned": "0:49"
-        },
-        {
-            "id": "DVNK",
-            "name": "De Vink",
-            "travel_time_min": 136,
-            "travel_time_planned": "2:16"
-        },
-        {
-            "id": "DWE",
-            "name": "De Westereen",
-            "travel_time_min": 60,
-            "travel_time_planned": "1:00"
-        },
-        {
-            "id": "DEI",
-            "name": "Deinum",
-            "travel_time_min": 40,
-            "travel_time_planned": "0:40"
-        },
-        {
-            "id": "DDN",
-            "name": "Delden",
-            "travel_time_min": 119,
-            "travel_time_planned": "1:59"
-        },
-        {
-            "id": "DT",
-            "name": "Delft",
-            "travel_time_min": 147,
-            "travel_time_planned": "2:27"
-        },
-        {
-            "id": "DTZ",
-            "name": "Delft Zuid",
-            "travel_time_min": 154,
-            "travel_time_planned": "2:34"
-        },
-        {
-            "id": "DZ",
-            "name": "Delfzijl",
-            "travel_time_min": 137,
-            "travel_time_planned": "2:17"
-        },
-        {
-            "id": "DZW",
-            "name": "Delfzijl West",
-            "travel_time_min": 134,
-            "travel_time_planned": "2:14"
-        },
-        {
-            "id": "DLD",
-            "name": "Den Dolder",
-            "travel_time_min": 111,
-            "travel_time_planned": "1:51"
-        },
-        {
-            "id": "GVC",
-            "name": "Den Haag Centraal",
-            "travel_time_min": 139,
-            "travel_time_planned": "2:19"
-        },
-        {
-            "id": "GV",
-            "name": "Den Haag HS",
-            "travel_time_min": 140,
-            "travel_time_planned": "2:20"
-        },
-        {
-            "id": "LAA",
-            "name": "Den Haag Laan v NOI",
-            "travel_time_min": 137,
-            "travel_time_planned": "2:17"
-        },
-        {
-            "id": "GVM",
-            "name": "Den Haag Mariahoeve",
-            "travel_time_min": 144,
-            "travel_time_planned": "2:24"
-        },
-        {
-            "id": "GVMW",
-            "name": "Den Haag Moerwijk",
-            "travel_time_min": 144,
-            "travel_time_planned": "2:24"
-        },
-        {
-            "id": "YPB",
-            "name": "Den Haag Ypenburg",
-            "travel_time_min": 138,
-            "travel_time_planned": "2:18"
-        },
-        {
-            "id": "HDR",
-            "name": "Den Helder",
-            "travel_time_min": 199,
-            "travel_time_planned": "3:19"
-        },
-        {
-            "id": "HDRZ",
-            "name": "Den Helder Zuid",
-            "travel_time_min": 195,
-            "travel_time_planned": "3:15"
-        },
-        {
-            "id": "DN",
-            "name": "Deurne",
-            "travel_time_min": 177,
-            "travel_time_planned": "2:57"
-        },
-        {
-            "id": "DV",
-            "name": "Deventer",
-            "travel_time_min": 66,
-            "travel_time_planned": "1:06"
-        },
-        {
-            "id": "DVC",
-            "name": "Deventer Colmschate",
-            "travel_time_min": 94,
-            "travel_time_planned": "1:34"
-        },
-        {
-            "id": "DID",
-            "name": "Didam",
-            "travel_time_min": 134,
-            "travel_time_planned": "2:14"
-        },
-        {
-            "id": "DMN",
-            "name": "Diemen",
-            "travel_time_min": 109,
-            "travel_time_planned": "1:49"
-        },
-        {
-            "id": "DMNZ",
-            "name": "Diemen Zuid",
-            "travel_time_min": 114,
-            "travel_time_planned": "1:54"
-        },
-        {
-            "id": "DR",
-            "name": "Dieren",
-            "travel_time_min": 89,
-            "travel_time_planned": "1:29"
-        },
-        {
-            "id": "DTC",
-            "name": "Doetinchem",
-            "travel_time_min": 149,
-            "travel_time_planned": "2:29"
-        },
-        {
-            "id": "DTCH",
-            "name": "Doetinchem De Huet",
-            "travel_time_min": 145,
-            "travel_time_planned": "2:25"
-        },
-        {
-            "id": "DDR",
-            "name": "Dordrecht",
-            "travel_time_min": 165,
-            "travel_time_planned": "2:45"
-        },
-        {
-            "id": "DDRS",
-            "name": "Dordrecht Stadspolders",
-            "travel_time_min": 172,
-            "travel_time_planned": "2:52"
-        },
-        {
-            "id": "DDZD",
-            "name": "Dordrecht Zuid",
-            "travel_time_min": 172,
-            "travel_time_planned": "2:52"
-        },
-        {
-            "id": "DB",
-            "name": "Driebergen-Zeist",
-            "travel_time_min": 119,
-            "travel_time_planned": "1:59"
-        },
-        {
-            "id": "DRH",
-            "name": "Driehuis",
-            "travel_time_min": 155,
-            "travel_time_planned": "2:35"
-        },
-        {
-            "id": "DRP",
-            "name": "Dronryp",
-            "travel_time_min": 45,
-            "travel_time_planned": "0:45"
-        },
-        {
-            "id": "DRON",
-            "name": "Dronten",
-            "travel_time_min": 78,
-            "travel_time_planned": "1:18"
-        },
-        {
-            "id": "DVN",
-            "name": "Duiven",
-            "travel_time_min": 125,
-            "travel_time_planned": "2:05"
-        },
-        {
-            "id": "DVD",
-            "name": "Duivendrecht",
-            "travel_time_min": 112,
-            "travel_time_planned": "1:52"
-        },
-        {
-            "id": "EC",
-            "name": "Echt",
-            "travel_time_min": 218,
-            "travel_time_planned": "3:38"
-        },
-        {
-            "id": "EDC",
-            "name": "Ede Centrum",
-            "travel_time_min": 125,
-            "travel_time_planned": "2:05"
-        },
-        {
-            "id": "ED",
-            "name": "Ede-Wageningen",
+            "id": "AKM",
+            "name": "Akkrum",
             "travel_time_min": 124,
             "travel_time_planned": "2:04"
         },
         {
-            "id": "EDN",
-            "name": "Eijsden",
-            "travel_time_min": 261,
-            "travel_time_planned": "4:21"
+            "id": "AMR",
+            "name": "Alkmaar",
+            "travel_time_min": 86,
+            "travel_time_planned": "1:26"
         },
         {
-            "id": "EHV",
-            "name": "Eindhoven",
-            "travel_time_min": 159,
-            "travel_time_planned": "2:39"
+            "id": "AMRN",
+            "name": "Alkmaar Noord",
+            "travel_time_min": 94,
+            "travel_time_planned": "1:34"
         },
         {
-            "id": "EHS",
-            "name": "Eindhoven Strijp-S",
-            "travel_time_min": 192,
-            "travel_time_planned": "3:12"
-        },
-        {
-            "id": "EST",
-            "name": "Elst",
-            "travel_time_min": 118,
-            "travel_time_planned": "1:58"
-        },
-        {
-            "id": "EMN",
-            "name": "Emmen",
-            "travel_time_min": 98,
-            "travel_time_planned": "1:38"
-        },
-        {
-            "id": "EMNZ",
-            "name": "Emmen Zuid",
-            "travel_time_min": 93,
-            "travel_time_planned": "1:33"
-        },
-        {
-            "id": "EKZ",
-            "name": "Enkhuizen",
-            "travel_time_min": 180,
-            "travel_time_planned": "3:00"
-        },
-        {
-            "id": "ES",
-            "name": "Enschede",
-            "travel_time_min": 110,
-            "travel_time_planned": "1:50"
-        },
-        {
-            "id": "ESE",
-            "name": "Enschede De Eschmarke",
-            "travel_time_min": 119,
-            "travel_time_planned": "1:59"
-        },
-        {
-            "id": "ESK",
-            "name": "Enschede Kennispark",
-            "travel_time_min": 105,
-            "travel_time_planned": "1:45"
-        },
-        {
-            "id": "EML",
-            "name": "Ermelo",
-            "travel_time_min": 78,
-            "travel_time_planned": "1:18"
-        },
-        {
-            "id": "ETN",
-            "name": "Etten-Leur",
-            "travel_time_min": 195,
-            "travel_time_planned": "3:15"
-        },
-        {
-            "id": "EGH",
-            "name": "Eygelshoven",
-            "travel_time_min": 254,
-            "travel_time_planned": "4:14"
-        },
-        {
-            "id": "EGHM",
-            "name": "Eygelshoven Markt",
-            "travel_time_min": 266,
-            "travel_time_planned": "4:26"
-        },
-        {
-            "id": "FWD",
-            "name": "Feanwalden",
-            "travel_time_min": 56,
-            "travel_time_planned": "0:56"
-        },
-        {
-            "id": "FN",
-            "name": "Franeker",
-            "travel_time_min": 50,
-            "travel_time_planned": "0:50"
-        },
-        {
-            "id": "GDR",
-            "name": "Gaanderen",
-            "travel_time_min": 155,
-            "travel_time_planned": "2:35"
-        },
-        {
-            "id": "GDM",
-            "name": "Geldermalsen",
-            "travel_time_min": 129,
-            "travel_time_planned": "2:09"
-        },
-        {
-            "id": "GP",
-            "name": "Geldrop",
-            "travel_time_min": 188,
-            "travel_time_planned": "3:08"
-        },
-        {
-            "id": "GLN",
-            "name": "Geleen Oost",
-            "travel_time_min": 228,
-            "travel_time_planned": "3:48"
-        },
-        {
-            "id": "LUT",
-            "name": "Geleen-Lutterade",
-            "travel_time_min": 232,
-            "travel_time_planned": "3:52"
-        },
-        {
-            "id": "GZ",
-            "name": "Gilze-Rijen",
-            "travel_time_min": 174,
-            "travel_time_planned": "2:54"
-        },
-        {
-            "id": "GBR",
-            "name": "Glanerbrug",
-            "travel_time_min": 122,
-            "travel_time_planned": "2:02"
-        },
-        {
-            "id": "GS",
-            "name": "Goes",
-            "travel_time_min": 247,
-            "travel_time_planned": "4:07"
-        },
-        {
-            "id": "GO",
-            "name": "Goor",
-            "travel_time_min": 112,
-            "travel_time_planned": "1:52"
-        },
-        {
-            "id": "GR",
-            "name": "Gorinchem",
-            "travel_time_min": 176,
-            "travel_time_planned": "2:56"
-        },
-        {
-            "id": "GD",
-            "name": "Gouda",
-            "travel_time_min": 119,
-            "travel_time_planned": "1:59"
-        },
-        {
-            "id": "GDG",
-            "name": "Gouda Goverwelle",
-            "travel_time_min": 135,
-            "travel_time_planned": "2:15"
-        },
-        {
-            "id": "GBG",
-            "name": "Gramsbergen",
+            "id": "AML",
+            "name": "Almelo",
             "travel_time_min": 95,
             "travel_time_planned": "1:35"
         },
         {
-            "id": "GK",
-            "name": "Grijpskerk",
-            "travel_time_min": 75,
-            "travel_time_planned": "1:15"
-        },
-        {
-            "id": "GN",
-            "name": "Groningen",
-            "travel_time_min": 70,
-            "travel_time_planned": "1:10"
-        },
-        {
-            "id": "GERP",
-            "name": "Groningen Europapark",
-            "travel_time_min": 77,
-            "travel_time_planned": "1:17"
-        },
-        {
-            "id": "GNN",
-            "name": "Groningen Noord",
-            "travel_time_min": 78,
-            "travel_time_planned": "1:18"
-        },
-        {
-            "id": "GW",
-            "name": "Grou-Jirnsum",
-            "travel_time_min": 19,
-            "travel_time_planned": "0:19"
-        },
-        {
-            "id": "HLM",
-            "name": "Haarlem",
-            "travel_time_min": 132,
-            "travel_time_planned": "2:12"
-        },
-        {
-            "id": "HLMS",
-            "name": "Haarlem Spaarnwoude",
-            "travel_time_min": 138,
-            "travel_time_planned": "2:18"
-        },
-        {
-            "id": "HWZB",
-            "name": "Halfweg-Zwanenburg",
-            "travel_time_min": 134,
-            "travel_time_planned": "2:14"
-        },
-        {
-            "id": "HDB",
-            "name": "Hardenberg",
-            "travel_time_min": 73,
-            "travel_time_planned": "1:13"
-        },
-        {
-            "id": "HD",
-            "name": "Harderwijk",
-            "travel_time_min": 74,
-            "travel_time_planned": "1:14"
-        },
-        {
-            "id": "HBZM",
-            "name": "Hardinxveld Blauwe Zoom",
-            "travel_time_min": 193,
-            "travel_time_planned": "3:13"
-        },
-        {
-            "id": "GND",
-            "name": "Hardinxveld-Giessendam",
-            "travel_time_min": 185,
-            "travel_time_planned": "3:05"
-        },
-        {
-            "id": "HRN",
-            "name": "Haren",
-            "travel_time_min": 65,
-            "travel_time_planned": "1:05"
-        },
-        {
-            "id": "HLG",
-            "name": "Harlingen",
-            "travel_time_min": 58,
-            "travel_time_planned": "0:58"
-        },
-        {
-            "id": "HLGH",
-            "name": "Harlingen Haven",
-            "travel_time_min": 61,
-            "travel_time_planned": "1:01"
-        },
-        {
-            "id": "HK",
-            "name": "Heemskerk",
-            "travel_time_min": 163,
-            "travel_time_planned": "2:43"
-        },
-        {
-            "id": "HAD",
-            "name": "Heemstede-Aerdenhout",
-            "travel_time_min": 137,
-            "travel_time_planned": "2:17"
-        },
-        {
-            "id": "HR",
-            "name": "Heerenveen",
-            "travel_time_min": 8,
-            "travel_time_planned": "0:08"
-        },
-        {
-            "id": "HWD",
-            "name": "Heerhugowaard",
-            "travel_time_min": 171,
-            "travel_time_planned": "2:51"
-        },
-        {
-            "id": "HRL",
-            "name": "Heerlen",
-            "travel_time_min": 229,
-            "travel_time_planned": "3:49"
-        },
-        {
-            "id": "HRLK",
-            "name": "Heerlen De Kissel",
-            "travel_time_min": 249,
-            "travel_time_planned": "4:09"
-        },
-        {
-            "id": "HRLW",
-            "name": "Heerlen Woonboulevard",
-            "travel_time_min": 238,
-            "travel_time_planned": "3:58"
-        },
-        {
-            "id": "HZE",
-            "name": "Heeze",
-            "travel_time_min": 192,
-            "travel_time_planned": "3:12"
-        },
-        {
-            "id": "HLO",
-            "name": "Heiloo",
-            "travel_time_min": 153,
-            "travel_time_planned": "2:33"
-        },
-        {
-            "id": "HNO",
-            "name": "Heino",
-            "travel_time_min": 51,
-            "travel_time_planned": "0:51"
-        },
-        {
-            "id": "HM",
-            "name": "Helmond",
-            "travel_time_min": 171,
-            "travel_time_planned": "2:51"
-        },
-        {
-            "id": "HMH",
-            "name": "Helmond 't Hout",
-            "travel_time_min": 186,
-            "travel_time_planned": "3:06"
-        },
-        {
-            "id": "HMBV",
-            "name": "Helmond Brandevoort",
-            "travel_time_min": 183,
-            "travel_time_planned": "3:03"
-        },
-        {
-            "id": "HMBH",
-            "name": "Helmond Brouwhuis",
-            "travel_time_min": 193,
-            "travel_time_planned": "3:13"
-        },
-        {
-            "id": "HMN",
-            "name": "Hemmen-Dodewaard",
-            "travel_time_min": 140,
-            "travel_time_planned": "2:20"
-        },
-        {
-            "id": "HGL",
-            "name": "Hengelo",
-            "travel_time_min": 98,
-            "travel_time_planned": "1:38"
-        },
-        {
-            "id": "HGLG",
-            "name": "Hengelo Gezondheidspark",
-            "travel_time_min": 123,
-            "travel_time_planned": "2:03"
-        },
-        {
-            "id": "HGLO",
-            "name": "Hengelo Oost",
+            "id": "AMRI",
+            "name": "Almelo de Riet",
             "travel_time_min": 104,
             "travel_time_planned": "1:44"
         },
         {
-            "id": "HIL",
-            "name": "Hillegom",
-            "travel_time_min": 148,
-            "travel_time_planned": "2:28"
+            "id": "ALMB",
+            "name": "Almere Buiten",
+            "travel_time_min": 78,
+            "travel_time_planned": "1:18"
         },
         {
-            "id": "HVS",
-            "name": "Hilversum",
-            "travel_time_min": 97,
-            "travel_time_planned": "1:37"
+            "id": "ALM",
+            "name": "Almere Centrum",
+            "travel_time_min": 66,
+            "travel_time_planned": "1:06"
         },
         {
-            "id": "HVSM",
-            "name": "Hilversum Media Park",
-            "travel_time_min": 100,
-            "travel_time_planned": "1:40"
+            "id": "ALMM",
+            "name": "Almere Muziekwijk",
+            "travel_time_min": 63,
+            "travel_time_planned": "1:03"
         },
         {
-            "id": "HVSP",
-            "name": "Hilversum Sportpark",
-            "travel_time_min": 105,
-            "travel_time_planned": "1:45"
-        },
-        {
-            "id": "HNP",
-            "name": "Hindeloopen",
+            "id": "ALMO",
+            "name": "Almere Oostvaarders",
             "travel_time_min": 81,
             "travel_time_planned": "1:21"
         },
         {
+            "id": "ALMP",
+            "name": "Almere Parkwijk",
+            "travel_time_min": 74,
+            "travel_time_planned": "1:14"
+        },
+        {
+            "id": "AMPO",
+            "name": "Almere Poort",
+            "travel_time_min": 59,
+            "travel_time_planned": "0:59"
+        },
+        {
+            "id": "APN",
+            "name": "Alphen a/d Rijn",
+            "travel_time_min": 50,
+            "travel_time_planned": "0:50"
+        },
+        {
+            "id": "AMF",
+            "name": "Amersfoort",
+            "travel_time_min": 30,
+            "travel_time_planned": "0:30"
+        },
+        {
+            "id": "AMFS",
+            "name": "Amersfoort Schothorst",
+            "travel_time_min": 38,
+            "travel_time_planned": "0:38"
+        },
+        {
+            "id": "AVAT",
+            "name": "Amersfoort Vathorst",
+            "travel_time_min": 46,
+            "travel_time_planned": "0:46"
+        },
+        {
+            "id": "ASA",
+            "name": "Amsterdam Amstel",
+            "travel_time_min": 38,
+            "travel_time_planned": "0:38"
+        },
+        {
+            "id": "ASB",
+            "name": "Amsterdam Bijlmer ArenA",
+            "travel_time_min": 39,
+            "travel_time_planned": "0:39"
+        },
+        {
+            "id": "ASD",
+            "name": "Amsterdam Centraal",
+            "travel_time_min": 46,
+            "travel_time_planned": "0:46"
+        },
+        {
+            "id": "ASHD",
+            "name": "Amsterdam Holendrecht",
+            "travel_time_min": 47,
+            "travel_time_planned": "0:47"
+        },
+        {
+            "id": "ASDL",
+            "name": "Amsterdam Lelylaan",
+            "travel_time_min": 62,
+            "travel_time_planned": "1:02"
+        },
+        {
+            "id": "ASDM",
+            "name": "Amsterdam Muiderpoort",
+            "travel_time_min": 46,
+            "travel_time_planned": "0:46"
+        },
+        {
+            "id": "RAI",
+            "name": "Amsterdam RAI",
+            "travel_time_min": 65,
+            "travel_time_planned": "1:05"
+        },
+        {
+            "id": "ASSP",
+            "name": "Amsterdam Science Park",
+            "travel_time_min": 59,
+            "travel_time_planned": "0:59"
+        },
+        {
+            "id": "ASS",
+            "name": "Amsterdam Sloterdijk",
+            "travel_time_min": 55,
+            "travel_time_planned": "0:55"
+        },
+        {
+            "id": "ASDZ",
+            "name": "Amsterdam Zuid",
+            "travel_time_min": 44,
+            "travel_time_planned": "0:44"
+        },
+        {
+            "id": "ANA",
+            "name": "Anna Paulowna",
+            "travel_time_min": 115,
+            "travel_time_planned": "1:55"
+        },
+        {
+            "id": "APD",
+            "name": "Apeldoorn",
+            "travel_time_min": 57,
+            "travel_time_planned": "0:57"
+        },
+        {
+            "id": "APDM",
+            "name": "Apeldoorn De Maten",
+            "travel_time_min": 66,
+            "travel_time_planned": "1:06"
+        },
+        {
+            "id": "APDO",
+            "name": "Apeldoorn Osseveld",
+            "travel_time_min": 64,
+            "travel_time_planned": "1:04"
+        },
+        {
+            "id": "APG",
+            "name": "Appingedam",
+            "travel_time_min": 226,
+            "travel_time_planned": "3:46"
+        },
+        {
+            "id": "AKL",
+            "name": "Arkel",
+            "travel_time_min": 48,
+            "travel_time_planned": "0:48"
+        },
+        {
+            "id": "ARN",
+            "name": "Arnemuiden",
+            "travel_time_min": 148,
+            "travel_time_planned": "2:28"
+        },
+        {
+            "id": "AH",
+            "name": "Arnhem Centraal",
+            "travel_time_min": 46,
+            "travel_time_planned": "0:46"
+        },
+        {
+            "id": "AHPR",
+            "name": "Arnhem Presikhaaf",
+            "travel_time_min": 71,
+            "travel_time_planned": "1:11"
+        },
+        {
+            "id": "AHP",
+            "name": "Arnhem Velperpoort",
+            "travel_time_min": 60,
+            "travel_time_planned": "1:00"
+        },
+        {
+            "id": "AHZ",
+            "name": "Arnhem Zuid",
+            "travel_time_min": 57,
+            "travel_time_planned": "0:57"
+        },
+        {
+            "id": "ASN",
+            "name": "Assen",
+            "travel_time_min": 113,
+            "travel_time_planned": "1:53"
+        },
+        {
+            "id": "BRN",
+            "name": "Baarn",
+            "travel_time_min": 49,
+            "travel_time_planned": "0:49"
+        },
+        {
+            "id": "NSCH",
+            "name": "Bad Nieuweschans",
+            "travel_time_min": 280,
+            "travel_time_planned": "4:40"
+        },
+        {
+            "id": "BF",
+            "name": "Baflo",
+            "travel_time_min": 220,
+            "travel_time_planned": "3:40"
+        },
+        {
+            "id": "BRD",
+            "name": "Barendrecht",
+            "travel_time_min": 80,
+            "travel_time_planned": "1:20"
+        },
+        {
+            "id": "BNC",
+            "name": "Barneveld Centrum",
+            "travel_time_min": 53,
+            "travel_time_planned": "0:53"
+        },
+        {
+            "id": "BNN",
+            "name": "Barneveld Noord",
+            "travel_time_min": 50,
+            "travel_time_planned": "0:50"
+        },
+        {
+            "id": "BNZ",
+            "name": "Barneveld Zuid",
+            "travel_time_min": 56,
+            "travel_time_planned": "0:56"
+        },
+        {
+            "id": "BDM",
+            "name": "Bedum",
+            "travel_time_min": 210,
+            "travel_time_planned": "3:30"
+        },
+        {
+            "id": "BK",
+            "name": "Beek-Elsloo",
+            "travel_time_min": 125,
+            "travel_time_planned": "2:05"
+        },
+        {
+            "id": "BSD",
+            "name": "Beesd",
+            "travel_time_min": 34,
+            "travel_time_planned": "0:34"
+        },
+        {
+            "id": "BL",
+            "name": "Beilen",
+            "travel_time_min": 120,
+            "travel_time_planned": "2:00"
+        },
+        {
+            "id": "BGN",
+            "name": "Bergen op Zoom",
+            "travel_time_min": 107,
+            "travel_time_planned": "1:47"
+        },
+        {
+            "id": "BET",
+            "name": "Best",
+            "travel_time_min": 76,
+            "travel_time_planned": "1:16"
+        },
+        {
+            "id": "BV",
+            "name": "Beverwijk",
+            "travel_time_min": 88,
+            "travel_time_planned": "1:28"
+        },
+        {
+            "id": "BHV",
+            "name": "Bilthoven",
+            "travel_time_min": 25,
+            "travel_time_planned": "0:25"
+        },
+        {
+            "id": "BR",
+            "name": "Blerick",
+            "travel_time_min": 115,
+            "travel_time_planned": "1:55"
+        },
+        {
+            "id": "BLL",
+            "name": "Bloemendaal",
+            "travel_time_min": 75,
+            "travel_time_planned": "1:15"
+        },
+        {
+            "id": "BDG",
+            "name": "Bodegraven",
+            "travel_time_min": 42,
+            "travel_time_planned": "0:42"
+        },
+        {
+            "id": "BN",
+            "name": "Borne",
+            "travel_time_min": 110,
+            "travel_time_planned": "1:50"
+        },
+        {
+            "id": "BSK",
+            "name": "Boskoop",
+            "travel_time_min": 55,
+            "travel_time_planned": "0:55"
+        },
+        {
+            "id": "BHDV",
+            "name": "Boven-Hardinxveld",
+            "travel_time_min": 65,
+            "travel_time_planned": "1:05"
+        },
+        {
+            "id": "BKF",
+            "name": "Bovenkarspel Flora",
+            "travel_time_min": 104,
+            "travel_time_planned": "1:44"
+        },
+        {
+            "id": "BKG",
+            "name": "Bovenkarspel-Grootebroek",
+            "travel_time_min": 101,
+            "travel_time_planned": "1:41"
+        },
+        {
+            "id": "BMR",
+            "name": "Boxmeer",
+            "travel_time_min": 100,
+            "travel_time_planned": "1:40"
+        },
+        {
+            "id": "BTL",
+            "name": "Boxtel",
+            "travel_time_min": 63,
+            "travel_time_planned": "1:03"
+        },
+        {
+            "id": "BD",
+            "name": "Breda",
+            "travel_time_min": 74,
+            "travel_time_planned": "1:14"
+        },
+        {
+            "id": "BDPB",
+            "name": "Breda-Prinsenbeek",
+            "travel_time_min": 104,
+            "travel_time_planned": "1:44"
+        },
+        {
+            "id": "BKL",
+            "name": "Breukelen",
+            "travel_time_min": 30,
+            "travel_time_planned": "0:30"
+        },
+        {
+            "id": "BMN",
+            "name": "Brummen",
+            "travel_time_min": 89,
+            "travel_time_planned": "1:29"
+        },
+        {
+            "id": "BP",
+            "name": "Buitenpost",
+            "travel_time_min": 162,
+            "travel_time_planned": "2:42"
+        },
+        {
+            "id": "BDE",
+            "name": "Bunde",
+            "travel_time_min": 130,
+            "travel_time_planned": "2:10"
+        },
+        {
+            "id": "BNK",
+            "name": "Bunnik",
+            "travel_time_min": 13,
+            "travel_time_planned": "0:13"
+        },
+        {
+            "id": "BSMZ",
+            "name": "Bussum Zuid",
+            "travel_time_min": 48,
+            "travel_time_planned": "0:48"
+        },
+        {
+            "id": "CPS",
+            "name": "Capelle Schollevaar",
+            "travel_time_min": 47,
+            "travel_time_planned": "0:47"
+        },
+        {
+            "id": "CAS",
+            "name": "Castricum",
+            "travel_time_min": 75,
+            "travel_time_planned": "1:15"
+        },
+        {
+            "id": "CVM",
+            "name": "Chevremont",
+            "travel_time_min": 147,
+            "travel_time_planned": "2:27"
+        },
+        {
+            "id": "CO",
+            "name": "Coevorden",
+            "travel_time_min": 117,
+            "travel_time_planned": "1:57"
+        },
+        {
+            "id": "CK",
+            "name": "Cuijk",
+            "travel_time_min": 93,
+            "travel_time_planned": "1:33"
+        },
+        {
+            "id": "CL",
+            "name": "Culemborg",
+            "travel_time_min": 13,
+            "travel_time_planned": "0:13"
+        },
+        {
+            "id": "DA",
+            "name": "Daarlerveen",
+            "travel_time_min": 121,
+            "travel_time_planned": "2:01"
+        },
+        {
+            "id": "DLN",
+            "name": "Dalen",
+            "travel_time_min": 125,
+            "travel_time_planned": "2:05"
+        },
+        {
+            "id": "DL",
+            "name": "Dalfsen",
+            "travel_time_min": 87,
+            "travel_time_planned": "1:27"
+        },
+        {
+            "id": "DVNK",
+            "name": "De Vink",
+            "travel_time_min": 75,
+            "travel_time_planned": "1:15"
+        },
+        {
+            "id": "DWE",
+            "name": "De Westereen",
+            "travel_time_min": 156,
+            "travel_time_planned": "2:36"
+        },
+        {
+            "id": "DEI",
+            "name": "Deinum",
+            "travel_time_min": 141,
+            "travel_time_planned": "2:21"
+        },
+        {
+            "id": "DDN",
+            "name": "Delden",
+            "travel_time_min": 107,
+            "travel_time_planned": "1:47"
+        },
+        {
+            "id": "DT",
+            "name": "Delft",
+            "travel_time_min": 70,
+            "travel_time_planned": "1:10"
+        },
+        {
+            "id": "DTZ",
+            "name": "Delft Zuid",
+            "travel_time_min": 73,
+            "travel_time_planned": "1:13"
+        },
+        {
+            "id": "DZ",
+            "name": "Delfzijl",
+            "travel_time_min": 233,
+            "travel_time_planned": "3:53"
+        },
+        {
+            "id": "DZW",
+            "name": "Delfzijl West",
+            "travel_time_min": 230,
+            "travel_time_planned": "3:50"
+        },
+        {
+            "id": "DLD",
+            "name": "Den Dolder",
+            "travel_time_min": 29,
+            "travel_time_planned": "0:29"
+        },
+        {
+            "id": "GVC",
+            "name": "Den Haag Centraal",
+            "travel_time_min": 48,
+            "travel_time_planned": "0:48"
+        },
+        {
+            "id": "GV",
+            "name": "Den Haag HS",
+            "travel_time_min": 62,
+            "travel_time_planned": "1:02"
+        },
+        {
+            "id": "LAA",
+            "name": "Den Haag Laan v NOI",
+            "travel_time_min": 65,
+            "travel_time_planned": "1:05"
+        },
+        {
+            "id": "GVM",
+            "name": "Den Haag Mariahoeve",
+            "travel_time_min": 68,
+            "travel_time_planned": "1:08"
+        },
+        {
+            "id": "GVMW",
+            "name": "Den Haag Moerwijk",
+            "travel_time_min": 72,
+            "travel_time_planned": "1:12"
+        },
+        {
+            "id": "YPB",
+            "name": "Den Haag Ypenburg",
+            "travel_time_min": 51,
+            "travel_time_planned": "0:51"
+        },
+        {
+            "id": "HDR",
+            "name": "Den Helder",
+            "travel_time_min": 127,
+            "travel_time_planned": "2:07"
+        },
+        {
+            "id": "HDRZ",
+            "name": "Den Helder Zuid",
+            "travel_time_min": 123,
+            "travel_time_planned": "2:03"
+        },
+        {
+            "id": "DN",
+            "name": "Deurne",
+            "travel_time_min": 89,
+            "travel_time_planned": "1:29"
+        },
+        {
+            "id": "DV",
+            "name": "Deventer",
+            "travel_time_min": 68,
+            "travel_time_planned": "1:08"
+        },
+        {
+            "id": "DVC",
+            "name": "Deventer Colmschate",
+            "travel_time_min": 82,
+            "travel_time_planned": "1:22"
+        },
+        {
+            "id": "DID",
+            "name": "Didam",
+            "travel_time_min": 77,
+            "travel_time_planned": "1:17"
+        },
+        {
+            "id": "DMN",
+            "name": "Diemen",
+            "travel_time_min": 61,
+            "travel_time_planned": "1:01"
+        },
+        {
+            "id": "DMNZ",
+            "name": "Diemen Zuid",
+            "travel_time_min": 69,
+            "travel_time_planned": "1:09"
+        },
+        {
+            "id": "DR",
+            "name": "Dieren",
+            "travel_time_min": 64,
+            "travel_time_planned": "1:04"
+        },
+        {
+            "id": "DTC",
+            "name": "Doetinchem",
+            "travel_time_min": 92,
+            "travel_time_planned": "1:32"
+        },
+        {
+            "id": "DTCH",
+            "name": "Doetinchem De Huet",
+            "travel_time_min": 88,
+            "travel_time_planned": "1:28"
+        },
+        {
+            "id": "DDR",
+            "name": "Dordrecht",
+            "travel_time_min": 77,
+            "travel_time_planned": "1:17"
+        },
+        {
+            "id": "DDRS",
+            "name": "Dordrecht Stadspolders",
+            "travel_time_min": 79,
+            "travel_time_planned": "1:19"
+        },
+        {
+            "id": "DDZD",
+            "name": "Dordrecht Zuid",
+            "travel_time_min": 87,
+            "travel_time_planned": "1:27"
+        },
+        {
+            "id": "DB",
+            "name": "Driebergen-Zeist",
+            "travel_time_min": 17,
+            "travel_time_planned": "0:17"
+        },
+        {
+            "id": "DRH",
+            "name": "Driehuis",
+            "travel_time_min": 83,
+            "travel_time_planned": "1:23"
+        },
+        {
+            "id": "DRP",
+            "name": "Dronryp",
+            "travel_time_min": 146,
+            "travel_time_planned": "2:26"
+        },
+        {
+            "id": "DRON",
+            "name": "Dronten",
+            "travel_time_min": 106,
+            "travel_time_planned": "1:46"
+        },
+        {
+            "id": "DVN",
+            "name": "Duiven",
+            "travel_time_min": 68,
+            "travel_time_planned": "1:08"
+        },
+        {
+            "id": "DVD",
+            "name": "Duivendrecht",
+            "travel_time_min": 53,
+            "travel_time_planned": "0:53"
+        },
+        {
+            "id": "EC",
+            "name": "Echt",
+            "travel_time_min": 108,
+            "travel_time_planned": "1:48"
+        },
+        {
+            "id": "EDC",
+            "name": "Ede Centrum",
+            "travel_time_min": 55,
+            "travel_time_planned": "0:55"
+        },
+        {
+            "id": "ED",
+            "name": "Ede-Wageningen",
+            "travel_time_min": 44,
+            "travel_time_planned": "0:44"
+        },
+        {
+            "id": "EDN",
+            "name": "Eijsden",
+            "travel_time_min": 151,
+            "travel_time_planned": "2:31"
+        },
+        {
+            "id": "EHV",
+            "name": "Eindhoven",
+            "travel_time_min": 61,
+            "travel_time_planned": "1:01"
+        },
+        {
+            "id": "EHS",
+            "name": "Eindhoven Strijp-S",
+            "travel_time_min": 82,
+            "travel_time_planned": "1:22"
+        },
+        {
+            "id": "EST",
+            "name": "Elst",
+            "travel_time_min": 61,
+            "travel_time_planned": "1:01"
+        },
+        {
+            "id": "EMN",
+            "name": "Emmen",
+            "travel_time_min": 133,
+            "travel_time_planned": "2:13"
+        },
+        {
+            "id": "EMNZ",
+            "name": "Emmen Zuid",
+            "travel_time_min": 128,
+            "travel_time_planned": "2:08"
+        },
+        {
+            "id": "EKZ",
+            "name": "Enkhuizen",
+            "travel_time_min": 108,
+            "travel_time_planned": "1:48"
+        },
+        {
+            "id": "ES",
+            "name": "Enschede",
+            "travel_time_min": 115,
+            "travel_time_planned": "1:55"
+        },
+        {
+            "id": "ESE",
+            "name": "Enschede De Eschmarke",
+            "travel_time_min": 137,
+            "travel_time_planned": "2:17"
+        },
+        {
+            "id": "ESK",
+            "name": "Enschede Kennispark",
+            "travel_time_min": 123,
+            "travel_time_planned": "2:03"
+        },
+        {
+            "id": "EML",
+            "name": "Ermelo",
+            "travel_time_min": 61,
+            "travel_time_planned": "1:01"
+        },
+        {
+            "id": "ETN",
+            "name": "Etten-Leur",
+            "travel_time_min": 85,
+            "travel_time_planned": "1:25"
+        },
+        {
+            "id": "EGH",
+            "name": "Eygelshoven",
+            "travel_time_min": 144,
+            "travel_time_planned": "2:24"
+        },
+        {
+            "id": "EGHM",
+            "name": "Eygelshoven Markt",
+            "travel_time_min": 156,
+            "travel_time_planned": "2:36"
+        },
+        {
+            "id": "FWD",
+            "name": "Feanwalden",
+            "travel_time_min": 152,
+            "travel_time_planned": "2:32"
+        },
+        {
+            "id": "FN",
+            "name": "Franeker",
+            "travel_time_min": 151,
+            "travel_time_planned": "2:31"
+        },
+        {
+            "id": "GDR",
+            "name": "Gaanderen",
+            "travel_time_min": 100,
+            "travel_time_planned": "1:40"
+        },
+        {
+            "id": "GDM",
+            "name": "Geldermalsen",
+            "travel_time_min": 19,
+            "travel_time_planned": "0:19"
+        },
+        {
+            "id": "GP",
+            "name": "Geldrop",
+            "travel_time_min": 78,
+            "travel_time_planned": "1:18"
+        },
+        {
+            "id": "GLN",
+            "name": "Geleen Oost",
+            "travel_time_min": 118,
+            "travel_time_planned": "1:58"
+        },
+        {
+            "id": "LUT",
+            "name": "Geleen-Lutterade",
+            "travel_time_min": 122,
+            "travel_time_planned": "2:02"
+        },
+        {
+            "id": "GZ",
+            "name": "Gilze-Rijen",
+            "travel_time_min": 94,
+            "travel_time_planned": "1:34"
+        },
+        {
+            "id": "GBR",
+            "name": "Glanerbrug",
+            "travel_time_min": 140,
+            "travel_time_planned": "2:20"
+        },
+        {
+            "id": "GS",
+            "name": "Goes",
+            "travel_time_min": 137,
+            "travel_time_planned": "2:17"
+        },
+        {
+            "id": "GO",
+            "name": "Goor",
+            "travel_time_min": 100,
+            "travel_time_planned": "1:40"
+        },
+        {
+            "id": "GR",
+            "name": "Gorinchem",
+            "travel_time_min": 53,
+            "travel_time_planned": "0:53"
+        },
+        {
+            "id": "GD",
+            "name": "Gouda",
+            "travel_time_min": 29,
+            "travel_time_planned": "0:29"
+        },
+        {
+            "id": "GDG",
+            "name": "Gouda Goverwelle",
+            "travel_time_min": 35,
+            "travel_time_planned": "0:35"
+        },
+        {
+            "id": "GBG",
+            "name": "Gramsbergen",
+            "travel_time_min": 112,
+            "travel_time_planned": "1:52"
+        },
+        {
+            "id": "GK",
+            "name": "Grijpskerk",
+            "travel_time_min": 171,
+            "travel_time_planned": "2:51"
+        },
+        {
+            "id": "GN",
+            "name": "Groningen",
+            "travel_time_min": 187,
+            "travel_time_planned": "3:07"
+        },
+        {
+            "id": "GERP",
+            "name": "Groningen Europapark",
+            "travel_time_min": 203,
+            "travel_time_planned": "3:23"
+        },
+        {
+            "id": "GNN",
+            "name": "Groningen Noord",
+            "travel_time_min": 200,
+            "travel_time_planned": "3:20"
+        },
+        {
+            "id": "GW",
+            "name": "Grou-Jirnsum",
+            "travel_time_min": 129,
+            "travel_time_planned": "2:09"
+        },
+        {
+            "id": "HLM",
+            "name": "Haarlem",
+            "travel_time_min": 70,
+            "travel_time_planned": "1:10"
+        },
+        {
+            "id": "HLMS",
+            "name": "Haarlem Spaarnwoude",
+            "travel_time_min": 66,
+            "travel_time_planned": "1:06"
+        },
+        {
+            "id": "HWZB",
+            "name": "Halfweg-Zwanenburg",
+            "travel_time_min": 62,
+            "travel_time_planned": "1:02"
+        },
+        {
+            "id": "HDB",
+            "name": "Hardenberg",
+            "travel_time_min": 108,
+            "travel_time_planned": "1:48"
+        },
+        {
+            "id": "HD",
+            "name": "Harderwijk",
+            "travel_time_min": 66,
+            "travel_time_planned": "1:06"
+        },
+        {
+            "id": "HBZM",
+            "name": "Hardinxveld Blauwe Zoom",
+            "travel_time_min": 70,
+            "travel_time_planned": "1:10"
+        },
+        {
+            "id": "GND",
+            "name": "Hardinxveld-Giessendam",
+            "travel_time_min": 68,
+            "travel_time_planned": "1:08"
+        },
+        {
+            "id": "HRN",
+            "name": "Haren",
+            "travel_time_min": 142,
+            "travel_time_planned": "2:22"
+        },
+        {
+            "id": "HLG",
+            "name": "Harlingen",
+            "travel_time_min": 159,
+            "travel_time_planned": "2:39"
+        },
+        {
+            "id": "HLGH",
+            "name": "Harlingen Haven",
+            "travel_time_min": 162,
+            "travel_time_planned": "2:42"
+        },
+        {
+            "id": "HK",
+            "name": "Heemskerk",
+            "travel_time_min": 91,
+            "travel_time_planned": "1:31"
+        },
+        {
+            "id": "HAD",
+            "name": "Heemstede-Aerdenhout",
+            "travel_time_min": 81,
+            "travel_time_planned": "1:21"
+        },
+        {
+            "id": "HR",
+            "name": "Heerenveen",
+            "travel_time_min": 115,
+            "travel_time_planned": "1:55"
+        },
+        {
+            "id": "HWD",
+            "name": "Heerhugowaard",
+            "travel_time_min": 99,
+            "travel_time_planned": "1:39"
+        },
+        {
+            "id": "HRL",
+            "name": "Heerlen",
+            "travel_time_min": 136,
+            "travel_time_planned": "2:16"
+        },
+        {
+            "id": "HRLK",
+            "name": "Heerlen De Kissel",
+            "travel_time_min": 139,
+            "travel_time_planned": "2:19"
+        },
+        {
+            "id": "HRLW",
+            "name": "Heerlen Woonboulevard",
+            "travel_time_min": 158,
+            "travel_time_planned": "2:38"
+        },
+        {
+            "id": "HZE",
+            "name": "Heeze",
+            "travel_time_min": 82,
+            "travel_time_planned": "1:22"
+        },
+        {
+            "id": "HLO",
+            "name": "Heiloo",
+            "travel_time_min": 81,
+            "travel_time_planned": "1:21"
+        },
+        {
+            "id": "HNO",
+            "name": "Heino",
+            "travel_time_min": 86,
+            "travel_time_planned": "1:26"
+        },
+        {
+            "id": "HM",
+            "name": "Helmond",
+            "travel_time_min": 79,
+            "travel_time_planned": "1:19"
+        },
+        {
+            "id": "HMH",
+            "name": "Helmond 't Hout",
+            "travel_time_min": 76,
+            "travel_time_planned": "1:16"
+        },
+        {
+            "id": "HMBV",
+            "name": "Helmond Brandevoort",
+            "travel_time_min": 73,
+            "travel_time_planned": "1:13"
+        },
+        {
+            "id": "HMBH",
+            "name": "Helmond Brouwhuis",
+            "travel_time_min": 83,
+            "travel_time_planned": "1:23"
+        },
+        {
+            "id": "HMN",
+            "name": "Hemmen-Dodewaard",
+            "travel_time_min": 52,
+            "travel_time_planned": "0:52"
+        },
+        {
+            "id": "HGL",
+            "name": "Hengelo",
+            "travel_time_min": 106,
+            "travel_time_planned": "1:46"
+        },
+        {
+            "id": "HGLG",
+            "name": "Hengelo Gezondheidspark",
+            "travel_time_min": 111,
+            "travel_time_planned": "1:51"
+        },
+        {
+            "id": "HGLO",
+            "name": "Hengelo Oost",
+            "travel_time_min": 122,
+            "travel_time_planned": "2:02"
+        },
+        {
+            "id": "HIL",
+            "name": "Hillegom",
+            "travel_time_min": 93,
+            "travel_time_planned": "1:33"
+        },
+        {
+            "id": "HVS",
+            "name": "Hilversum",
+            "travel_time_min": 35,
+            "travel_time_planned": "0:35"
+        },
+        {
+            "id": "HVSM",
+            "name": "Hilversum Media Park",
+            "travel_time_min": 44,
+            "travel_time_planned": "0:44"
+        },
+        {
+            "id": "HVSP",
+            "name": "Hilversum Sportpark",
+            "travel_time_min": 32,
+            "travel_time_planned": "0:32"
+        },
+        {
+            "id": "HNP",
+            "name": "Hindeloopen",
+            "travel_time_min": 193,
+            "travel_time_planned": "3:13"
+        },
+        {
             "id": "HB",
             "name": "Hoensbroek",
-            "travel_time_min": 241,
-            "travel_time_planned": "4:01"
+            "travel_time_min": 131,
+            "travel_time_planned": "2:11"
         },
         {
             "id": "HVL",
             "name": "Hoevelaken",
-            "travel_time_min": 98,
-            "travel_time_planned": "1:38"
+            "travel_time_min": 43,
+            "travel_time_planned": "0:43"
         },
         {
             "id": "HOR",
             "name": "Hollandsche Rading",
-            "travel_time_min": 119,
-            "travel_time_planned": "1:59"
+            "travel_time_min": 32,
+            "travel_time_planned": "0:32"
         },
         {
             "id": "HON",
@@ -1167,1196 +1167,1196 @@
         {
             "id": "HFD",
             "name": "Hoofddorp",
-            "travel_time_min": 117,
-            "travel_time_planned": "1:57"
-        },
-        {
-            "id": "HGV",
-            "name": "Hoogeveen",
-            "travel_time_min": 33,
-            "travel_time_planned": "0:33"
-        },
-        {
-            "id": "HGZ",
-            "name": "Hoogezand-Sappemeer",
-            "travel_time_min": 89,
-            "travel_time_planned": "1:29"
-        },
-        {
-            "id": "HKS",
-            "name": "Hoogkarspel",
-            "travel_time_min": 168,
-            "travel_time_planned": "2:48"
-        },
-        {
-            "id": "HN",
-            "name": "Hoorn",
-            "travel_time_min": 154,
-            "travel_time_planned": "2:34"
-        },
-        {
-            "id": "HNK",
-            "name": "Hoorn Kersenboogerd",
-            "travel_time_min": 161,
-            "travel_time_planned": "2:41"
-        },
-        {
-            "id": "HRT",
-            "name": "Horst-Sevenum",
-            "travel_time_min": 188,
-            "travel_time_planned": "3:08"
-        },
-        {
-            "id": "HTN",
-            "name": "Houten",
-            "travel_time_min": 113,
-            "travel_time_planned": "1:53"
-        },
-        {
-            "id": "HTNC",
-            "name": "Houten Castellum",
-            "travel_time_min": 116,
-            "travel_time_planned": "1:56"
-        },
-        {
-            "id": "SGL",
-            "name": "Houthem-St Gerlach",
-            "travel_time_min": 254,
-            "travel_time_planned": "4:14"
-        },
-        {
-            "id": "HDG",
-            "name": "Hurdegaryp",
-            "travel_time_min": 51,
-            "travel_time_planned": "0:51"
-        },
-        {
-            "id": "IJT",
-            "name": "IJlst",
-            "travel_time_min": 68,
-            "travel_time_planned": "1:08"
-        },
-        {
-            "id": "KPN",
-            "name": "Kampen",
-            "travel_time_min": 51,
-            "travel_time_planned": "0:51"
-        },
-        {
-            "id": "KPNZ",
-            "name": "Kampen Zuid",
-            "travel_time_min": 70,
-            "travel_time_planned": "1:10"
-        },
-        {
-            "id": "BZL",
-            "name": "Kapelle-Biezelinge",
-            "travel_time_min": 243,
-            "travel_time_planned": "4:03"
-        },
-        {
-            "id": "KRD",
-            "name": "Kerkrade Centrum",
-            "travel_time_min": 260,
-            "travel_time_planned": "4:20"
-        },
-        {
-            "id": "KTR",
-            "name": "Kesteren",
-            "travel_time_min": 147,
-            "travel_time_planned": "2:27"
-        },
-        {
-            "id": "KBK",
-            "name": "Klarenbeek",
-            "travel_time_min": 97,
-            "travel_time_planned": "1:37"
-        },
-        {
-            "id": "KMR",
-            "name": "Klimmen-Ransdaal",
-            "travel_time_min": 244,
-            "travel_time_planned": "4:04"
-        },
-        {
-            "id": "KZ",
-            "name": "Koog aan de Zaan",
-            "travel_time_min": 141,
-            "travel_time_planned": "2:21"
-        },
-        {
-            "id": "KMW",
-            "name": "Koudum-Molkwerum",
-            "travel_time_min": 86,
-            "travel_time_planned": "1:26"
-        },
-        {
-            "id": "KBD",
-            "name": "Krabbendijke",
-            "travel_time_min": 231,
-            "travel_time_planned": "3:51"
-        },
-        {
-            "id": "KMA",
-            "name": "Krommenie-Assendelft",
-            "travel_time_min": 151,
-            "travel_time_planned": "2:31"
-        },
-        {
-            "id": "KW",
-            "name": "Kropswolde",
-            "travel_time_min": 85,
-            "travel_time_planned": "1:25"
-        },
-        {
-            "id": "KRG",
-            "name": "Kruiningen-Yerseke",
-            "travel_time_min": 237,
-            "travel_time_planned": "3:57"
-        },
-        {
-            "id": "ZLW",
-            "name": "Lage Zwaluwe",
-            "travel_time_min": 180,
-            "travel_time_planned": "3:00"
-        },
-        {
-            "id": "LG",
-            "name": "Landgraaf",
-            "travel_time_min": 252,
-            "travel_time_planned": "4:12"
-        },
-        {
-            "id": "LDM",
-            "name": "Leerdam",
-            "travel_time_min": 164,
-            "travel_time_planned": "2:44"
-        },
-        {
-            "id": "LW",
-            "name": "Leeuwarden",
-            "travel_time_min": 30,
-            "travel_time_planned": "0:30"
-        },
-        {
-            "id": "ADH",
-            "name": "Leeuwarden Achter d Hoven",
-            "travel_time_min": 43,
-            "travel_time_planned": "0:43"
-        },
-        {
-            "id": "LWC",
-            "name": "Leeuwarden Camminghaburen",
-            "travel_time_min": 46,
-            "travel_time_planned": "0:46"
-        },
-        {
-            "id": "LEDN",
-            "name": "Leiden Centraal",
-            "travel_time_min": 126,
-            "travel_time_planned": "2:06"
-        },
-        {
-            "id": "LDL",
-            "name": "Leiden Lammenschans",
-            "travel_time_min": 139,
-            "travel_time_planned": "2:19"
-        },
-        {
-            "id": "LLS",
-            "name": "Lelystad Centrum",
-            "travel_time_min": 65,
-            "travel_time_planned": "1:05"
-        },
-        {
-            "id": "LTV",
-            "name": "Lichtenvoorde-Groenlo",
-            "travel_time_min": 113,
-            "travel_time_planned": "1:53"
-        },
-        {
-            "id": "LC",
-            "name": "Lochem",
-            "travel_time_min": 104,
-            "travel_time_planned": "1:44"
-        },
-        {
-            "id": "LP",
-            "name": "Loppersum",
-            "travel_time_min": 124,
-            "travel_time_planned": "2:04"
-        },
-        {
-            "id": "LTN",
-            "name": "Lunteren",
-            "travel_time_min": 117,
-            "travel_time_planned": "1:57"
-        },
-        {
-            "id": "MZ",
-            "name": "Maarheeze",
-            "travel_time_min": 199,
-            "travel_time_planned": "3:19"
-        },
-        {
-            "id": "MRN",
-            "name": "Maarn",
-            "travel_time_min": 125,
-            "travel_time_planned": "2:05"
-        },
-        {
-            "id": "MAS",
-            "name": "Maarssen",
-            "travel_time_min": 132,
-            "travel_time_planned": "2:12"
-        },
-        {
-            "id": "MT",
-            "name": "Maastricht",
-            "travel_time_min": 237,
-            "travel_time_planned": "3:57"
-        },
-        {
-            "id": "MTN",
-            "name": "Maastricht Noord",
-            "travel_time_min": 260,
-            "travel_time_planned": "4:20"
-        },
-        {
-            "id": "MTR",
-            "name": "Maastricht Randwyck",
-            "travel_time_min": 249,
-            "travel_time_planned": "4:09"
-        },
-        {
-            "id": "MG",
-            "name": "Mantgum",
-            "travel_time_min": 40,
-            "travel_time_planned": "0:40"
-        },
-        {
-            "id": "MRB",
-            "name": "Mariënberg",
-            "travel_time_min": 68,
-            "travel_time_planned": "1:08"
-        },
-        {
-            "id": "MTH",
-            "name": "Martenshoek",
-            "travel_time_min": 87,
-            "travel_time_planned": "1:27"
-        },
-        {
-            "id": "MES",
-            "name": "Meerssen",
-            "travel_time_min": 257,
-            "travel_time_planned": "4:17"
-        },
-        {
-            "id": "MP",
-            "name": "Meppel",
-            "travel_time_min": 18,
-            "travel_time_planned": "0:18"
-        },
-        {
-            "id": "MDB",
-            "name": "Middelburg",
-            "travel_time_min": 262,
-            "travel_time_planned": "4:22"
-        },
-        {
-            "id": "MMLH",
-            "name": "Mook Molenhoek",
-            "travel_time_min": 145,
-            "travel_time_planned": "2:25"
-        },
-        {
-            "id": "NDB",
-            "name": "Naarden-Bussum",
-            "travel_time_min": 107,
-            "travel_time_planned": "1:47"
-        },
-        {
-            "id": "NA",
-            "name": "Nieuw Amsterdam",
-            "travel_time_min": 90,
-            "travel_time_planned": "1:30"
-        },
-        {
-            "id": "NVP",
-            "name": "Nieuw Vennep",
-            "travel_time_min": 122,
-            "travel_time_planned": "2:02"
-        },
-        {
-            "id": "NWK",
-            "name": "Nieuwerkerk a/d IJssel",
-            "travel_time_min": 131,
-            "travel_time_planned": "2:11"
-        },
-        {
-            "id": "NKK",
-            "name": "Nijkerk",
-            "travel_time_min": 88,
-            "travel_time_planned": "1:28"
-        },
-        {
-            "id": "NM",
-            "name": "Nijmegen",
-            "travel_time_min": 119,
-            "travel_time_planned": "1:59"
-        },
-        {
-            "id": "NMD",
-            "name": "Nijmegen Dukenburg",
-            "travel_time_min": 136,
-            "travel_time_planned": "2:16"
-        },
-        {
-            "id": "NMGO",
-            "name": "Nijmegen Goffert",
-            "travel_time_min": 133,
-            "travel_time_planned": "2:13"
-        },
-        {
-            "id": "NMH",
-            "name": "Nijmegen Heyendaal",
-            "travel_time_min": 139,
-            "travel_time_planned": "2:19"
-        },
-        {
-            "id": "NML",
-            "name": "Nijmegen Lent",
-            "travel_time_min": 123,
-            "travel_time_planned": "2:03"
-        },
-        {
-            "id": "NVD",
-            "name": "Nijverdal",
-            "travel_time_min": 66,
-            "travel_time_planned": "1:06"
-        },
-        {
-            "id": "NS",
-            "name": "Nunspeet",
-            "travel_time_min": 66,
-            "travel_time_planned": "1:06"
-        },
-        {
-            "id": "NH",
-            "name": "Nuth",
-            "travel_time_min": 238,
-            "travel_time_planned": "3:58"
-        },
-        {
-            "id": "OBD",
-            "name": "Obdam",
-            "travel_time_min": 172,
-            "travel_time_planned": "2:52"
-        },
-        {
-            "id": "OT",
-            "name": "Oisterwijk",
-            "travel_time_min": 186,
-            "travel_time_planned": "3:06"
-        },
-        {
-            "id": "ODZ",
-            "name": "Oldenzaal",
-            "travel_time_min": 111,
-            "travel_time_planned": "1:51"
-        },
-        {
-            "id": "OST",
-            "name": "Olst",
-            "travel_time_min": 59,
-            "travel_time_planned": "0:59"
-        },
-        {
-            "id": "OMN",
-            "name": "Ommen",
             "travel_time_min": 60,
             "travel_time_planned": "1:00"
         },
         {
-            "id": "OTB",
-            "name": "Oosterbeek",
-            "travel_time_min": 138,
-            "travel_time_planned": "2:18"
+            "id": "HGV",
+            "name": "Hoogeveen",
+            "travel_time_min": 98,
+            "travel_time_planned": "1:38"
         },
         {
-            "id": "OP",
-            "name": "Opheusden",
-            "travel_time_min": 143,
-            "travel_time_planned": "2:23"
+            "id": "HGZ",
+            "name": "Hoogezand-Sappemeer",
+            "travel_time_min": 215,
+            "travel_time_planned": "3:35"
         },
         {
-            "id": "O",
-            "name": "Oss",
-            "travel_time_min": 138,
-            "travel_time_planned": "2:18"
-        },
-        {
-            "id": "OW",
-            "name": "Oss West",
-            "travel_time_min": 159,
-            "travel_time_planned": "2:39"
-        },
-        {
-            "id": "ODB",
-            "name": "Oudenbosch",
-            "travel_time_min": 220,
-            "travel_time_planned": "3:40"
-        },
-        {
-            "id": "OVN",
-            "name": "Overveen",
-            "travel_time_min": 161,
-            "travel_time_planned": "2:41"
-        },
-        {
-            "id": "PMR",
-            "name": "Purmerend",
-            "travel_time_min": 158,
-            "travel_time_planned": "2:38"
-        },
-        {
-            "id": "PMO",
-            "name": "Purmerend Overwhere",
-            "travel_time_min": 160,
-            "travel_time_planned": "2:40"
-        },
-        {
-            "id": "PMW",
-            "name": "Purmerend Weidevenne",
-            "travel_time_min": 156,
-            "travel_time_planned": "2:36"
-        },
-        {
-            "id": "PT",
-            "name": "Putten",
-            "travel_time_min": 83,
-            "travel_time_planned": "1:23"
-        },
-        {
-            "id": "RAT",
-            "name": "Raalte",
-            "travel_time_min": 57,
-            "travel_time_planned": "0:57"
-        },
-        {
-            "id": "RVS",
-            "name": "Ravenstein",
-            "travel_time_min": 147,
-            "travel_time_planned": "2:27"
-        },
-        {
-            "id": "RV",
-            "name": "Reuver",
-            "travel_time_min": 217,
-            "travel_time_planned": "3:37"
-        },
-        {
-            "id": "RH",
-            "name": "Rheden",
-            "travel_time_min": 108,
-            "travel_time_planned": "1:48"
-        },
-        {
-            "id": "RHN",
-            "name": "Rhenen",
-            "travel_time_min": 147,
-            "travel_time_planned": "2:27"
-        },
-        {
-            "id": "RSN",
-            "name": "Rijssen",
-            "travel_time_min": 86,
-            "travel_time_planned": "1:26"
-        },
-        {
-            "id": "RSW",
-            "name": "Rijswijk",
-            "travel_time_min": 147,
-            "travel_time_planned": "2:27"
-        },
-        {
-            "id": "RB",
-            "name": "Rilland-Bath",
-            "travel_time_min": 227,
-            "travel_time_planned": "3:47"
-        },
-        {
-            "id": "RM",
-            "name": "Roermond",
-            "travel_time_min": 194,
-            "travel_time_planned": "3:14"
-        },
-        {
-            "id": "RD",
-            "name": "Roodeschool",
-            "travel_time_min": 119,
-            "travel_time_planned": "1:59"
-        },
-        {
-            "id": "RSD",
-            "name": "Roosendaal",
-            "travel_time_min": 189,
-            "travel_time_planned": "3:09"
-        },
-        {
-            "id": "RS",
-            "name": "Rosmalen",
-            "travel_time_min": 152,
-            "travel_time_planned": "2:32"
-        },
-        {
-            "id": "RTA",
-            "name": "Rotterdam Alexander",
-            "travel_time_min": 129,
-            "travel_time_planned": "2:09"
-        },
-        {
-            "id": "RTB",
-            "name": "Rotterdam Blaak",
-            "travel_time_min": 152,
-            "travel_time_planned": "2:32"
-        },
-        {
-            "id": "RTD",
-            "name": "Rotterdam Centraal",
-            "travel_time_min": 138,
-            "travel_time_planned": "2:18"
-        },
-        {
-            "id": "RLB",
-            "name": "Rotterdam Lombardijen",
-            "travel_time_min": 163,
-            "travel_time_planned": "2:43"
-        },
-        {
-            "id": "RTN",
-            "name": "Rotterdam Noord",
-            "travel_time_min": 141,
-            "travel_time_planned": "2:21"
-        },
-        {
-            "id": "RTZ",
-            "name": "Rotterdam Zuid",
-            "travel_time_min": 160,
-            "travel_time_planned": "2:40"
-        },
-        {
-            "id": "RL",
-            "name": "Ruurlo",
-            "travel_time_min": 105,
-            "travel_time_planned": "1:45"
-        },
-        {
-            "id": "SPTN",
-            "name": "Santpoort Noord",
-            "travel_time_min": 153,
-            "travel_time_planned": "2:33"
-        },
-        {
-            "id": "SPTZ",
-            "name": "Santpoort Zuid",
-            "travel_time_min": 150,
-            "travel_time_planned": "2:30"
-        },
-        {
-            "id": "SPM",
-            "name": "Sappemeer Oost",
-            "travel_time_min": 92,
-            "travel_time_planned": "1:32"
-        },
-        {
-            "id": "SSH",
-            "name": "Sassenheim",
-            "travel_time_min": 128,
-            "travel_time_planned": "2:08"
-        },
-        {
-            "id": "SWD",
-            "name": "Sauwerd",
-            "travel_time_min": 84,
-            "travel_time_planned": "1:24"
-        },
-        {
-            "id": "SGN",
-            "name": "Schagen",
-            "travel_time_min": 180,
-            "travel_time_planned": "3:00"
-        },
-        {
-            "id": "SDA",
-            "name": "Scheemda",
-            "travel_time_min": 103,
-            "travel_time_planned": "1:43"
-        },
-        {
-            "id": "SDM",
-            "name": "Schiedam Centrum",
-            "travel_time_min": 153,
-            "travel_time_planned": "2:33"
-        },
-        {
-            "id": "SOG",
-            "name": "Schin op Geul",
-            "travel_time_min": 247,
-            "travel_time_planned": "4:07"
-        },
-        {
-            "id": "SN",
-            "name": "Schinnen",
-            "travel_time_min": 235,
-            "travel_time_planned": "3:55"
-        },
-        {
-            "id": "SHL",
-            "name": "Schiphol Airport",
-            "travel_time_min": 108,
-            "travel_time_planned": "1:48"
-        },
-        {
-            "id": "STD",
-            "name": "Sittard",
-            "travel_time_min": 211,
-            "travel_time_planned": "3:31"
-        },
-        {
-            "id": "SDT",
-            "name": "Sliedrecht",
-            "travel_time_min": 180,
-            "travel_time_planned": "3:00"
-        },
-        {
-            "id": "SDTB",
-            "name": "Sliedrecht Baanhoek",
-            "travel_time_min": 177,
-            "travel_time_planned": "2:57"
-        },
-        {
-            "id": "SK",
-            "name": "Sneek",
-            "travel_time_min": 52,
-            "travel_time_planned": "0:52"
-        },
-        {
-            "id": "SKND",
-            "name": "Sneek Noord",
-            "travel_time_min": 49,
-            "travel_time_planned": "0:49"
-        },
-        {
-            "id": "ST",
-            "name": "Soest",
-            "travel_time_min": 113,
-            "travel_time_planned": "1:53"
-        },
-        {
-            "id": "STZ",
-            "name": "Soest Zuid",
-            "travel_time_min": 117,
-            "travel_time_planned": "1:57"
-        },
-        {
-            "id": "SD",
-            "name": "Soestdijk",
-            "travel_time_min": 109,
-            "travel_time_planned": "1:49"
-        },
-        {
-            "id": "SBK",
-            "name": "Spaubeek",
-            "travel_time_min": 232,
-            "travel_time_planned": "3:52"
-        },
-        {
-            "id": "STV",
-            "name": "Stavoren",
-            "travel_time_min": 91,
-            "travel_time_planned": "1:31"
-        },
-        {
-            "id": "STM",
-            "name": "Stedum",
-            "travel_time_min": 120,
-            "travel_time_planned": "2:00"
-        },
-        {
-            "id": "SWK",
-            "name": "Steenwijk",
-            "travel_time_min": 8,
-            "travel_time_planned": "0:08"
-        },
-        {
-            "id": "SRN",
-            "name": "Susteren",
-            "travel_time_min": 221,
-            "travel_time_planned": "3:41"
-        },
-        {
-            "id": "SM",
-            "name": "Swalmen",
-            "travel_time_min": 213,
-            "travel_time_planned": "3:33"
-        },
-        {
-            "id": "TG",
-            "name": "Tegelen",
-            "travel_time_min": 210,
-            "travel_time_planned": "3:30"
-        },
-        {
-            "id": "TBG",
-            "name": "Terborg",
-            "travel_time_min": 156,
-            "travel_time_planned": "2:36"
-        },
-        {
-            "id": "TL",
-            "name": "Tiel",
-            "travel_time_min": 155,
-            "travel_time_planned": "2:35"
-        },
-        {
-            "id": "TPSW",
-            "name": "Tiel Passewaaij",
-            "travel_time_min": 151,
-            "travel_time_planned": "2:31"
-        },
-        {
-            "id": "TB",
-            "name": "Tilburg",
-            "travel_time_min": 161,
-            "travel_time_planned": "2:41"
-        },
-        {
-            "id": "TBR",
-            "name": "Tilburg Reeshof",
-            "travel_time_min": 169,
-            "travel_time_planned": "2:49"
-        },
-        {
-            "id": "TBU",
-            "name": "Tilburg Universiteit",
-            "travel_time_min": 165,
-            "travel_time_planned": "2:45"
-        },
-        {
-            "id": "TWL",
-            "name": "Twello",
-            "travel_time_min": 83,
-            "travel_time_planned": "1:23"
-        },
-        {
-            "id": "UTG",
-            "name": "Uitgeest",
-            "travel_time_min": 155,
-            "travel_time_planned": "2:35"
-        },
-        {
-            "id": "UHZ",
-            "name": "Uithuizen",
-            "travel_time_min": 109,
-            "travel_time_planned": "1:49"
-        },
-        {
-            "id": "UHM",
-            "name": "Uithuizermeeden",
-            "travel_time_min": 113,
-            "travel_time_planned": "1:53"
-        },
-        {
-            "id": "UST",
-            "name": "Usquert",
-            "travel_time_min": 103,
-            "travel_time_planned": "1:43"
-        },
-        {
-            "id": "UT",
-            "name": "Utrecht Centraal",
-            "travel_time_min": 95,
-            "travel_time_planned": "1:35"
-        },
-        {
-            "id": "UTLR",
-            "name": "Utrecht Leidsche Rijn",
-            "travel_time_min": 114,
-            "travel_time_planned": "1:54"
-        },
-        {
-            "id": "UTLN",
-            "name": "Utrecht Lunetten",
-            "travel_time_min": 110,
-            "travel_time_planned": "1:50"
-        },
-        {
-            "id": "UTM",
-            "name": "Utrecht Maliebaan",
-            "travel_time_min": 131,
-            "travel_time_planned": "2:11"
-        },
-        {
-            "id": "UTO",
-            "name": "Utrecht Overvecht",
-            "travel_time_min": 119,
-            "travel_time_planned": "1:59"
-        },
-        {
-            "id": "UTT",
-            "name": "Utrecht Terwijde",
-            "travel_time_min": 116,
-            "travel_time_planned": "1:56"
-        },
-        {
-            "id": "UTVR",
-            "name": "Utrecht Vaartsche Rijn",
-            "travel_time_min": 107,
-            "travel_time_planned": "1:47"
-        },
-        {
-            "id": "UTZL",
-            "name": "Utrecht Zuilen",
-            "travel_time_min": 128,
-            "travel_time_planned": "2:08"
-        },
-        {
-            "id": "VK",
-            "name": "Valkenburg",
-            "travel_time_min": 251,
-            "travel_time_planned": "4:11"
-        },
-        {
-            "id": "VSV",
-            "name": "Varsseveld",
-            "travel_time_min": 150,
-            "travel_time_planned": "2:30"
-        },
-        {
-            "id": "VDM",
-            "name": "Veendam",
-            "travel_time_min": 120,
-            "travel_time_planned": "2:00"
-        },
-        {
-            "id": "VNDC",
-            "name": "Veenendaal Centrum",
-            "travel_time_min": 138,
-            "travel_time_planned": "2:18"
-        },
-        {
-            "id": "VNDW",
-            "name": "Veenendaal West",
-            "travel_time_min": 135,
-            "travel_time_planned": "2:15"
-        },
-        {
-            "id": "KLP",
-            "name": "Veenendaal-De Klomp",
-            "travel_time_min": 125,
-            "travel_time_planned": "2:05"
-        },
-        {
-            "id": "VP",
-            "name": "Velp",
-            "travel_time_min": 112,
-            "travel_time_planned": "1:52"
-        },
-        {
-            "id": "VL",
-            "name": "Venlo",
-            "travel_time_min": 201,
-            "travel_time_planned": "3:21"
-        },
-        {
-            "id": "VRY",
-            "name": "Venray",
-            "travel_time_min": 171,
-            "travel_time_planned": "2:51"
-        },
-        {
-            "id": "VLB",
-            "name": "Vierlingsbeek",
-            "travel_time_min": 164,
-            "travel_time_planned": "2:44"
-        },
-        {
-            "id": "VTN",
-            "name": "Vleuten",
-            "travel_time_min": 119,
-            "travel_time_planned": "1:59"
-        },
-        {
-            "id": "VS",
-            "name": "Vlissingen",
-            "travel_time_min": 272,
-            "travel_time_planned": "4:32"
-        },
-        {
-            "id": "VSS",
-            "name": "Vlissingen Souburg",
-            "travel_time_min": 267,
-            "travel_time_planned": "4:27"
-        },
-        {
-            "id": "VDL",
-            "name": "Voerendaal",
-            "travel_time_min": 240,
-            "travel_time_planned": "4:00"
-        },
-        {
-            "id": "VB",
-            "name": "Voorburg",
-            "travel_time_min": 141,
-            "travel_time_planned": "2:21"
-        },
-        {
-            "id": "VH",
-            "name": "Voorhout",
-            "travel_time_min": 155,
-            "travel_time_planned": "2:35"
-        },
-        {
-            "id": "VST",
-            "name": "Voorschoten",
-            "travel_time_min": 139,
-            "travel_time_planned": "2:19"
-        },
-        {
-            "id": "VEM",
-            "name": "Voorst-Empe",
-            "travel_time_min": 93,
-            "travel_time_planned": "1:33"
-        },
-        {
-            "id": "VD",
-            "name": "Vorden",
-            "travel_time_min": 97,
-            "travel_time_planned": "1:37"
-        },
-        {
-            "id": "VZ",
-            "name": "Vriezenveen",
-            "travel_time_min": 90,
-            "travel_time_planned": "1:30"
-        },
-        {
-            "id": "VHP",
-            "name": "Vroomshoop",
-            "travel_time_min": 82,
-            "travel_time_planned": "1:22"
-        },
-        {
-            "id": "VG",
-            "name": "Vught",
-            "travel_time_min": 166,
-            "travel_time_planned": "2:46"
-        },
-        {
-            "id": "WAD",
-            "name": "Waddinxveen",
-            "travel_time_min": 152,
-            "travel_time_planned": "2:32"
-        },
-        {
-            "id": "WADN",
-            "name": "Waddinxveen Noord",
-            "travel_time_min": 154,
-            "travel_time_planned": "2:34"
-        },
-        {
-            "id": "WFM",
-            "name": "Warffum",
-            "travel_time_min": 99,
-            "travel_time_planned": "1:39"
-        },
-        {
-            "id": "WT",
-            "name": "Weert",
-            "travel_time_min": 180,
-            "travel_time_planned": "3:00"
-        },
-        {
-            "id": "WP",
-            "name": "Weesp",
-            "travel_time_min": 103,
-            "travel_time_planned": "1:43"
-        },
-        {
-            "id": "WL",
-            "name": "Wehl",
-            "travel_time_min": 141,
-            "travel_time_planned": "2:21"
-        },
-        {
-            "id": "WTV",
-            "name": "Westervoort",
-            "travel_time_min": 121,
-            "travel_time_planned": "2:01"
-        },
-        {
-            "id": "WZ",
-            "name": "Wezep",
-            "travel_time_min": 53,
-            "travel_time_planned": "0:53"
-        },
-        {
-            "id": "WDN",
-            "name": "Wierden",
-            "travel_time_min": 77,
-            "travel_time_planned": "1:17"
-        },
-        {
-            "id": "WC",
-            "name": "Wijchen",
-            "travel_time_min": 140,
-            "travel_time_planned": "2:20"
-        },
-        {
-            "id": "WH",
-            "name": "Wijhe",
-            "travel_time_min": 53,
-            "travel_time_planned": "0:53"
-        },
-        {
-            "id": "WS",
-            "name": "Winschoten",
-            "travel_time_min": 108,
-            "travel_time_planned": "1:48"
-        },
-        {
-            "id": "WSM",
-            "name": "Winsum",
-            "travel_time_min": 89,
-            "travel_time_planned": "1:29"
-        },
-        {
-            "id": "WW",
-            "name": "Winterswijk",
-            "travel_time_min": 123,
-            "travel_time_planned": "2:03"
-        },
-        {
-            "id": "WWW",
-            "name": "Winterswijk West",
-            "travel_time_min": 120,
-            "travel_time_planned": "2:00"
-        },
-        {
-            "id": "WD",
-            "name": "Woerden",
-            "travel_time_min": 118,
-            "travel_time_planned": "1:58"
-        },
-        {
-            "id": "WF",
-            "name": "Wolfheze",
-            "travel_time_min": 141,
-            "travel_time_planned": "2:21"
-        },
-        {
-            "id": "WK",
-            "name": "Workum",
-            "travel_time_min": 78,
-            "travel_time_planned": "1:18"
-        },
-        {
-            "id": "WM",
-            "name": "Wormerveer",
-            "travel_time_min": 147,
-            "travel_time_planned": "2:27"
-        },
-        {
-            "id": "ZD",
-            "name": "Zaandam",
-            "travel_time_min": 135,
-            "travel_time_planned": "2:15"
-        },
-        {
-            "id": "ZDK",
-            "name": "Zaandam Kogerveld",
-            "travel_time_min": 149,
-            "travel_time_planned": "2:29"
-        },
-        {
-            "id": "ZZS",
-            "name": "Zaandijk Zaanse Schans",
-            "travel_time_min": 144,
-            "travel_time_planned": "2:24"
-        },
-        {
-            "id": "ZBM",
-            "name": "Zaltbommel",
-            "travel_time_min": 137,
-            "travel_time_planned": "2:17"
-        },
-        {
-            "id": "ZVT",
-            "name": "Zandvoort aan Zee",
-            "travel_time_min": 168,
-            "travel_time_planned": "2:48"
-        },
-        {
-            "id": "ZA",
-            "name": "Zetten-Andelst",
-            "travel_time_min": 137,
-            "travel_time_planned": "2:17"
-        },
-        {
-            "id": "ZV",
-            "name": "Zevenaar",
-            "travel_time_min": 129,
-            "travel_time_planned": "2:09"
-        },
-        {
-            "id": "ZVB",
-            "name": "Zevenbergen",
-            "travel_time_min": 214,
-            "travel_time_planned": "3:34"
-        },
-        {
-            "id": "ZTM",
-            "name": "Zoetermeer",
-            "travel_time_min": 134,
-            "travel_time_planned": "2:14"
-        },
-        {
-            "id": "ZTMO",
-            "name": "Zoetermeer Oost",
-            "travel_time_min": 131,
-            "travel_time_planned": "2:11"
-        },
-        {
-            "id": "ZB",
-            "name": "Zuidbroek",
+            "id": "HKS",
+            "name": "Hoogkarspel",
             "travel_time_min": 96,
             "travel_time_planned": "1:36"
         },
         {
-            "id": "ZH",
-            "name": "Zuidhorn",
-            "travel_time_min": 80,
-            "travel_time_planned": "1:20"
+            "id": "HN",
+            "name": "Hoorn",
+            "travel_time_min": 99,
+            "travel_time_planned": "1:39"
         },
         {
-            "id": "ZP",
-            "name": "Zutphen",
+            "id": "HNK",
+            "name": "Hoorn Kersenboogerd",
+            "travel_time_min": 105,
+            "travel_time_planned": "1:45"
+        },
+        {
+            "id": "HRT",
+            "name": "Horst-Sevenum",
+            "travel_time_min": 108,
+            "travel_time_planned": "1:48"
+        },
+        {
+            "id": "HTN",
+            "name": "Houten",
+            "travel_time_min": 3,
+            "travel_time_planned": "0:03"
+        },
+        {
+            "id": "HTNC",
+            "name": "Houten Castellum",
+            "travel_time_min": 6,
+            "travel_time_planned": "0:06"
+        },
+        {
+            "id": "SGL",
+            "name": "Houthem-St Gerlach",
+            "travel_time_min": 161,
+            "travel_time_planned": "2:41"
+        },
+        {
+            "id": "HDG",
+            "name": "Hurdegaryp",
+            "travel_time_min": 147,
+            "travel_time_planned": "2:27"
+        },
+        {
+            "id": "IJT",
+            "name": "IJlst",
+            "travel_time_min": 180,
+            "travel_time_planned": "3:00"
+        },
+        {
+            "id": "KPN",
+            "name": "Kampen",
+            "travel_time_min": 86,
+            "travel_time_planned": "1:26"
+        },
+        {
+            "id": "KPNZ",
+            "name": "Kampen Zuid",
+            "travel_time_min": 105,
+            "travel_time_planned": "1:45"
+        },
+        {
+            "id": "BZL",
+            "name": "Kapelle-Biezelinge",
+            "travel_time_min": 133,
+            "travel_time_planned": "2:13"
+        },
+        {
+            "id": "KRD",
+            "name": "Kerkrade Centrum",
+            "travel_time_min": 150,
+            "travel_time_planned": "2:30"
+        },
+        {
+            "id": "KTR",
+            "name": "Kesteren",
+            "travel_time_min": 46,
+            "travel_time_planned": "0:46"
+        },
+        {
+            "id": "KBK",
+            "name": "Klarenbeek",
+            "travel_time_min": 72,
+            "travel_time_planned": "1:12"
+        },
+        {
+            "id": "KMR",
+            "name": "Klimmen-Ransdaal",
+            "travel_time_min": 164,
+            "travel_time_planned": "2:44"
+        },
+        {
+            "id": "KZ",
+            "name": "Koog aan de Zaan",
+            "travel_time_min": 69,
+            "travel_time_planned": "1:09"
+        },
+        {
+            "id": "KMW",
+            "name": "Koudum-Molkwerum",
+            "travel_time_min": 198,
+            "travel_time_planned": "3:18"
+        },
+        {
+            "id": "KBD",
+            "name": "Krabbendijke",
+            "travel_time_min": 121,
+            "travel_time_planned": "2:01"
+        },
+        {
+            "id": "KMA",
+            "name": "Krommenie-Assendelft",
             "travel_time_min": 79,
             "travel_time_planned": "1:19"
         },
         {
+            "id": "KW",
+            "name": "Kropswolde",
+            "travel_time_min": 211,
+            "travel_time_planned": "3:31"
+        },
+        {
+            "id": "KRG",
+            "name": "Kruiningen-Yerseke",
+            "travel_time_min": 127,
+            "travel_time_planned": "2:07"
+        },
+        {
+            "id": "ZLW",
+            "name": "Lage Zwaluwe",
+            "travel_time_min": 95,
+            "travel_time_planned": "1:35"
+        },
+        {
+            "id": "LG",
+            "name": "Landgraaf",
+            "travel_time_min": 142,
+            "travel_time_planned": "2:22"
+        },
+        {
+            "id": "LDM",
+            "name": "Leerdam",
+            "travel_time_min": 41,
+            "travel_time_planned": "0:41"
+        },
+        {
+            "id": "LW",
+            "name": "Leeuwarden",
+            "travel_time_min": 131,
+            "travel_time_planned": "2:11"
+        },
+        {
+            "id": "ADH",
+            "name": "Leeuwarden Achter d Hoven",
+            "travel_time_min": 169,
+            "travel_time_planned": "2:49"
+        },
+        {
+            "id": "LWC",
+            "name": "Leeuwarden Camminghaburen",
+            "travel_time_min": 142,
+            "travel_time_planned": "2:22"
+        },
+        {
+            "id": "LEDN",
+            "name": "Leiden Centraal",
+            "travel_time_min": 65,
+            "travel_time_planned": "1:05"
+        },
+        {
+            "id": "LDL",
+            "name": "Leiden Lammenschans",
+            "travel_time_min": 60,
+            "travel_time_planned": "1:00"
+        },
+        {
+            "id": "LLS",
+            "name": "Lelystad Centrum",
+            "travel_time_min": 87,
+            "travel_time_planned": "1:27"
+        },
+        {
+            "id": "LTV",
+            "name": "Lichtenvoorde-Groenlo",
+            "travel_time_min": 101,
+            "travel_time_planned": "1:41"
+        },
+        {
+            "id": "LC",
+            "name": "Lochem",
+            "travel_time_min": 92,
+            "travel_time_planned": "1:32"
+        },
+        {
+            "id": "LP",
+            "name": "Loppersum",
+            "travel_time_min": 220,
+            "travel_time_planned": "3:40"
+        },
+        {
+            "id": "LTN",
+            "name": "Lunteren",
+            "travel_time_min": 61,
+            "travel_time_planned": "1:01"
+        },
+        {
+            "id": "MZ",
+            "name": "Maarheeze",
+            "travel_time_min": 89,
+            "travel_time_planned": "1:29"
+        },
+        {
+            "id": "MRN",
+            "name": "Maarn",
+            "travel_time_min": 23,
+            "travel_time_planned": "0:23"
+        },
+        {
+            "id": "MAS",
+            "name": "Maarssen",
+            "travel_time_min": 25,
+            "travel_time_planned": "0:25"
+        },
+        {
+            "id": "MT",
+            "name": "Maastricht",
+            "travel_time_min": 127,
+            "travel_time_planned": "2:07"
+        },
+        {
+            "id": "MTN",
+            "name": "Maastricht Noord",
+            "travel_time_min": 155,
+            "travel_time_planned": "2:35"
+        },
+        {
+            "id": "MTR",
+            "name": "Maastricht Randwyck",
+            "travel_time_min": 139,
+            "travel_time_planned": "2:19"
+        },
+        {
+            "id": "MG",
+            "name": "Mantgum",
+            "travel_time_min": 146,
+            "travel_time_planned": "2:26"
+        },
+        {
+            "id": "MRB",
+            "name": "Mariënberg",
+            "travel_time_min": 103,
+            "travel_time_planned": "1:43"
+        },
+        {
+            "id": "MTH",
+            "name": "Martenshoek",
+            "travel_time_min": 213,
+            "travel_time_planned": "3:33"
+        },
+        {
+            "id": "MES",
+            "name": "Meerssen",
+            "travel_time_min": 147,
+            "travel_time_planned": "2:27"
+        },
+        {
+            "id": "MP",
+            "name": "Meppel",
+            "travel_time_min": 92,
+            "travel_time_planned": "1:32"
+        },
+        {
+            "id": "MDB",
+            "name": "Middelburg",
+            "travel_time_min": 152,
+            "travel_time_planned": "2:32"
+        },
+        {
+            "id": "MMLH",
+            "name": "Mook Molenhoek",
+            "travel_time_min": 88,
+            "travel_time_planned": "1:28"
+        },
+        {
+            "id": "NDB",
+            "name": "Naarden-Bussum",
+            "travel_time_min": 46,
+            "travel_time_planned": "0:46"
+        },
+        {
+            "id": "NA",
+            "name": "Nieuw Amsterdam",
+            "travel_time_min": 125,
+            "travel_time_planned": "2:05"
+        },
+        {
+            "id": "NVP",
+            "name": "Nieuw Vennep",
+            "travel_time_min": 65,
+            "travel_time_planned": "1:05"
+        },
+        {
+            "id": "NWK",
+            "name": "Nieuwerkerk a/d IJssel",
+            "travel_time_min": 44,
+            "travel_time_planned": "0:44"
+        },
+        {
+            "id": "NKK",
+            "name": "Nijkerk",
+            "travel_time_min": 51,
+            "travel_time_planned": "0:51"
+        },
+        {
+            "id": "NM",
+            "name": "Nijmegen",
+            "travel_time_min": 70,
+            "travel_time_planned": "1:10"
+        },
+        {
+            "id": "NMD",
+            "name": "Nijmegen Dukenburg",
+            "travel_time_min": 78,
+            "travel_time_planned": "1:18"
+        },
+        {
+            "id": "NMGO",
+            "name": "Nijmegen Goffert",
+            "travel_time_min": 76,
+            "travel_time_planned": "1:16"
+        },
+        {
+            "id": "NMH",
+            "name": "Nijmegen Heyendaal",
+            "travel_time_min": 82,
+            "travel_time_planned": "1:22"
+        },
+        {
+            "id": "NML",
+            "name": "Nijmegen Lent",
+            "travel_time_min": 66,
+            "travel_time_planned": "1:06"
+        },
+        {
+            "id": "NVD",
+            "name": "Nijverdal",
+            "travel_time_min": 101,
+            "travel_time_planned": "1:41"
+        },
+        {
+            "id": "NS",
+            "name": "Nunspeet",
+            "travel_time_min": 73,
+            "travel_time_planned": "1:13"
+        },
+        {
+            "id": "NH",
+            "name": "Nuth",
+            "travel_time_min": 128,
+            "travel_time_planned": "2:08"
+        },
+        {
+            "id": "OBD",
+            "name": "Obdam",
+            "travel_time_min": 117,
+            "travel_time_planned": "1:57"
+        },
+        {
+            "id": "OT",
+            "name": "Oisterwijk",
+            "travel_time_min": 76,
+            "travel_time_planned": "1:16"
+        },
+        {
+            "id": "ODZ",
+            "name": "Oldenzaal",
+            "travel_time_min": 129,
+            "travel_time_planned": "2:09"
+        },
+        {
+            "id": "OST",
+            "name": "Olst",
+            "travel_time_min": 82,
+            "travel_time_planned": "1:22"
+        },
+        {
+            "id": "OMN",
+            "name": "Ommen",
+            "travel_time_min": 95,
+            "travel_time_planned": "1:35"
+        },
+        {
+            "id": "OTB",
+            "name": "Oosterbeek",
+            "travel_time_min": 59,
+            "travel_time_planned": "0:59"
+        },
+        {
+            "id": "OP",
+            "name": "Opheusden",
+            "travel_time_min": 49,
+            "travel_time_planned": "0:49"
+        },
+        {
+            "id": "O",
+            "name": "Oss",
+            "travel_time_min": 67,
+            "travel_time_planned": "1:07"
+        },
+        {
+            "id": "OW",
+            "name": "Oss West",
+            "travel_time_min": 79,
+            "travel_time_planned": "1:19"
+        },
+        {
+            "id": "ODB",
+            "name": "Oudenbosch",
+            "travel_time_min": 110,
+            "travel_time_planned": "1:50"
+        },
+        {
+            "id": "OVN",
+            "name": "Overveen",
+            "travel_time_min": 76,
+            "travel_time_planned": "1:16"
+        },
+        {
+            "id": "PMR",
+            "name": "Purmerend",
+            "travel_time_min": 86,
+            "travel_time_planned": "1:26"
+        },
+        {
+            "id": "PMO",
+            "name": "Purmerend Overwhere",
+            "travel_time_min": 88,
+            "travel_time_planned": "1:28"
+        },
+        {
+            "id": "PMW",
+            "name": "Purmerend Weidevenne",
+            "travel_time_min": 84,
+            "travel_time_planned": "1:24"
+        },
+        {
+            "id": "PT",
+            "name": "Putten",
+            "travel_time_min": 56,
+            "travel_time_planned": "0:56"
+        },
+        {
+            "id": "RAT",
+            "name": "Raalte",
+            "travel_time_min": 92,
+            "travel_time_planned": "1:32"
+        },
+        {
+            "id": "RVS",
+            "name": "Ravenstein",
+            "travel_time_min": 89,
+            "travel_time_planned": "1:29"
+        },
+        {
+            "id": "RV",
+            "name": "Reuver",
+            "travel_time_min": 108,
+            "travel_time_planned": "1:48"
+        },
+        {
+            "id": "RH",
+            "name": "Rheden",
+            "travel_time_min": 79,
+            "travel_time_planned": "1:19"
+        },
+        {
+            "id": "RHN",
+            "name": "Rhenen",
+            "travel_time_min": 45,
+            "travel_time_planned": "0:45"
+        },
+        {
+            "id": "RSN",
+            "name": "Rijssen",
+            "travel_time_min": 97,
+            "travel_time_planned": "1:37"
+        },
+        {
+            "id": "RSW",
+            "name": "Rijswijk",
+            "travel_time_min": 75,
+            "travel_time_planned": "1:15"
+        },
+        {
+            "id": "RB",
+            "name": "Rilland-Bath",
+            "travel_time_min": 117,
+            "travel_time_planned": "1:57"
+        },
+        {
+            "id": "RM",
+            "name": "Roermond",
+            "travel_time_min": 94,
+            "travel_time_planned": "1:34"
+        },
+        {
+            "id": "RD",
+            "name": "Roodeschool",
+            "travel_time_min": 245,
+            "travel_time_planned": "4:05"
+        },
+        {
+            "id": "RSD",
+            "name": "Roosendaal",
+            "travel_time_min": 96,
+            "travel_time_planned": "1:36"
+        },
+        {
+            "id": "RS",
+            "name": "Rosmalen",
+            "travel_time_min": 72,
+            "travel_time_planned": "1:12"
+        },
+        {
+            "id": "RTA",
+            "name": "Rotterdam Alexander",
+            "travel_time_min": 42,
+            "travel_time_planned": "0:42"
+        },
+        {
+            "id": "RTB",
+            "name": "Rotterdam Blaak",
+            "travel_time_min": 65,
+            "travel_time_planned": "1:05"
+        },
+        {
+            "id": "RTD",
+            "name": "Rotterdam Centraal",
+            "travel_time_min": 51,
+            "travel_time_planned": "0:51"
+        },
+        {
+            "id": "RLB",
+            "name": "Rotterdam Lombardijen",
+            "travel_time_min": 76,
+            "travel_time_planned": "1:16"
+        },
+        {
+            "id": "RTN",
+            "name": "Rotterdam Noord",
+            "travel_time_min": 55,
+            "travel_time_planned": "0:55"
+        },
+        {
+            "id": "RTZ",
+            "name": "Rotterdam Zuid",
+            "travel_time_min": 73,
+            "travel_time_planned": "1:13"
+        },
+        {
+            "id": "RL",
+            "name": "Ruurlo",
+            "travel_time_min": 93,
+            "travel_time_planned": "1:33"
+        },
+        {
+            "id": "SPTN",
+            "name": "Santpoort Noord",
+            "travel_time_min": 81,
+            "travel_time_planned": "1:21"
+        },
+        {
+            "id": "SPTZ",
+            "name": "Santpoort Zuid",
+            "travel_time_min": 78,
+            "travel_time_planned": "1:18"
+        },
+        {
+            "id": "SPM",
+            "name": "Sappemeer Oost",
+            "travel_time_min": 218,
+            "travel_time_planned": "3:38"
+        },
+        {
+            "id": "SSH",
+            "name": "Sassenheim",
+            "travel_time_min": 72,
+            "travel_time_planned": "1:12"
+        },
+        {
+            "id": "SWD",
+            "name": "Sauwerd",
+            "travel_time_min": 205,
+            "travel_time_planned": "3:25"
+        },
+        {
+            "id": "SGN",
+            "name": "Schagen",
+            "travel_time_min": 108,
+            "travel_time_planned": "1:48"
+        },
+        {
+            "id": "SDA",
+            "name": "Scheemda",
+            "travel_time_min": 229,
+            "travel_time_planned": "3:49"
+        },
+        {
+            "id": "SDM",
+            "name": "Schiedam Centrum",
+            "travel_time_min": 66,
+            "travel_time_planned": "1:06"
+        },
+        {
+            "id": "SOG",
+            "name": "Schin op Geul",
+            "travel_time_min": 167,
+            "travel_time_planned": "2:47"
+        },
+        {
+            "id": "SN",
+            "name": "Schinnen",
+            "travel_time_min": 125,
+            "travel_time_planned": "2:05"
+        },
+        {
+            "id": "SHL",
+            "name": "Schiphol Airport",
+            "travel_time_min": 52,
+            "travel_time_planned": "0:52"
+        },
+        {
+            "id": "STD",
+            "name": "Sittard",
+            "travel_time_min": 111,
+            "travel_time_planned": "1:51"
+        },
+        {
+            "id": "SDT",
+            "name": "Sliedrecht",
+            "travel_time_min": 73,
+            "travel_time_planned": "1:13"
+        },
+        {
+            "id": "SDTB",
+            "name": "Sliedrecht Baanhoek",
+            "travel_time_min": 76,
+            "travel_time_planned": "1:16"
+        },
+        {
+            "id": "SK",
+            "name": "Sneek",
+            "travel_time_min": 158,
+            "travel_time_planned": "2:38"
+        },
+        {
+            "id": "SKND",
+            "name": "Sneek Noord",
+            "travel_time_min": 155,
+            "travel_time_planned": "2:35"
+        },
+        {
+            "id": "ST",
+            "name": "Soest",
+            "travel_time_min": 38,
+            "travel_time_planned": "0:38"
+        },
+        {
+            "id": "STZ",
+            "name": "Soest Zuid",
+            "travel_time_min": 35,
+            "travel_time_planned": "0:35"
+        },
+        {
+            "id": "SD",
+            "name": "Soestdijk",
+            "travel_time_min": 45,
+            "travel_time_planned": "0:45"
+        },
+        {
+            "id": "SBK",
+            "name": "Spaubeek",
+            "travel_time_min": 122,
+            "travel_time_planned": "2:02"
+        },
+        {
+            "id": "STV",
+            "name": "Stavoren",
+            "travel_time_min": 203,
+            "travel_time_planned": "3:23"
+        },
+        {
+            "id": "STM",
+            "name": "Stedum",
+            "travel_time_min": 216,
+            "travel_time_planned": "3:36"
+        },
+        {
+            "id": "SWK",
+            "name": "Steenwijk",
+            "travel_time_min": 99,
+            "travel_time_planned": "1:39"
+        },
+        {
+            "id": "SRN",
+            "name": "Susteren",
+            "travel_time_min": 111,
+            "travel_time_planned": "1:51"
+        },
+        {
+            "id": "SM",
+            "name": "Swalmen",
+            "travel_time_min": 103,
+            "travel_time_planned": "1:43"
+        },
+        {
+            "id": "TG",
+            "name": "Tegelen",
+            "travel_time_min": 115,
+            "travel_time_planned": "1:55"
+        },
+        {
+            "id": "TBG",
+            "name": "Terborg",
+            "travel_time_min": 102,
+            "travel_time_planned": "1:42"
+        },
+        {
+            "id": "TL",
+            "name": "Tiel",
+            "travel_time_min": 32,
+            "travel_time_planned": "0:32"
+        },
+        {
+            "id": "TPSW",
+            "name": "Tiel Passewaaij",
+            "travel_time_min": 28,
+            "travel_time_planned": "0:28"
+        },
+        {
+            "id": "TB",
+            "name": "Tilburg",
+            "travel_time_min": 60,
+            "travel_time_planned": "1:00"
+        },
+        {
+            "id": "TBR",
+            "name": "Tilburg Reeshof",
+            "travel_time_min": 89,
+            "travel_time_planned": "1:29"
+        },
+        {
+            "id": "TBU",
+            "name": "Tilburg Universiteit",
+            "travel_time_min": 85,
+            "travel_time_planned": "1:25"
+        },
+        {
+            "id": "TWL",
+            "name": "Twello",
+            "travel_time_min": 70,
+            "travel_time_planned": "1:10"
+        },
+        {
+            "id": "UTG",
+            "name": "Uitgeest",
+            "travel_time_min": 83,
+            "travel_time_planned": "1:23"
+        },
+        {
+            "id": "UHZ",
+            "name": "Uithuizen",
+            "travel_time_min": 235,
+            "travel_time_planned": "3:55"
+        },
+        {
+            "id": "UHM",
+            "name": "Uithuizermeeden",
+            "travel_time_min": 239,
+            "travel_time_planned": "3:59"
+        },
+        {
+            "id": "UST",
+            "name": "Usquert",
+            "travel_time_min": 229,
+            "travel_time_planned": "3:49"
+        },
+        {
+            "id": "UT",
+            "name": "Utrecht Centraal",
+            "travel_time_min": 6,
+            "travel_time_planned": "0:06"
+        },
+        {
+            "id": "UTLR",
+            "name": "Utrecht Leidsche Rijn",
+            "travel_time_min": 12,
+            "travel_time_planned": "0:12"
+        },
+        {
+            "id": "UTM",
+            "name": "Utrecht Maliebaan",
+            "travel_time_min": 29,
+            "travel_time_planned": "0:29"
+        },
+        {
+            "id": "UTO",
+            "name": "Utrecht Overvecht",
+            "travel_time_min": 20,
+            "travel_time_planned": "0:20"
+        },
+        {
+            "id": "UTT",
+            "name": "Utrecht Terwijde",
+            "travel_time_min": 14,
+            "travel_time_planned": "0:14"
+        },
+        {
+            "id": "UTVR",
+            "name": "Utrecht Vaartsche Rijn",
+            "travel_time_min": 3,
+            "travel_time_planned": "0:03"
+        },
+        {
+            "id": "UTZL",
+            "name": "Utrecht Zuilen",
+            "travel_time_min": 21,
+            "travel_time_planned": "0:21"
+        },
+        {
+            "id": "VK",
+            "name": "Valkenburg",
+            "travel_time_min": 152,
+            "travel_time_planned": "2:32"
+        },
+        {
+            "id": "VSV",
+            "name": "Varsseveld",
+            "travel_time_min": 109,
+            "travel_time_planned": "1:49"
+        },
+        {
+            "id": "VDM",
+            "name": "Veendam",
+            "travel_time_min": 246,
+            "travel_time_planned": "4:06"
+        },
+        {
+            "id": "VNDC",
+            "name": "Veenendaal Centrum",
+            "travel_time_min": 36,
+            "travel_time_planned": "0:36"
+        },
+        {
+            "id": "VNDW",
+            "name": "Veenendaal West",
+            "travel_time_min": 33,
+            "travel_time_planned": "0:33"
+        },
+        {
+            "id": "KLP",
+            "name": "Veenendaal-De Klomp",
+            "travel_time_min": 40,
+            "travel_time_planned": "0:40"
+        },
+        {
+            "id": "VP",
+            "name": "Velp",
+            "travel_time_min": 75,
+            "travel_time_planned": "1:15"
+        },
+        {
+            "id": "VL",
+            "name": "Venlo",
+            "travel_time_min": 120,
+            "travel_time_planned": "2:00"
+        },
+        {
+            "id": "VRY",
+            "name": "Venray",
+            "travel_time_min": 115,
+            "travel_time_planned": "1:55"
+        },
+        {
+            "id": "VLB",
+            "name": "Vierlingsbeek",
+            "travel_time_min": 108,
+            "travel_time_planned": "1:48"
+        },
+        {
+            "id": "VTN",
+            "name": "Vleuten",
+            "travel_time_min": 17,
+            "travel_time_planned": "0:17"
+        },
+        {
+            "id": "VS",
+            "name": "Vlissingen",
+            "travel_time_min": 162,
+            "travel_time_planned": "2:42"
+        },
+        {
+            "id": "VSS",
+            "name": "Vlissingen Souburg",
+            "travel_time_min": 157,
+            "travel_time_planned": "2:37"
+        },
+        {
+            "id": "VDL",
+            "name": "Voerendaal",
+            "travel_time_min": 160,
+            "travel_time_planned": "2:40"
+        },
+        {
+            "id": "VB",
+            "name": "Voorburg",
+            "travel_time_min": 54,
+            "travel_time_planned": "0:54"
+        },
+        {
+            "id": "VH",
+            "name": "Voorhout",
+            "travel_time_min": 86,
+            "travel_time_planned": "1:26"
+        },
+        {
+            "id": "VST",
+            "name": "Voorschoten",
+            "travel_time_min": 72,
+            "travel_time_planned": "1:12"
+        },
+        {
+            "id": "VEM",
+            "name": "Voorst-Empe",
+            "travel_time_min": 77,
+            "travel_time_planned": "1:17"
+        },
+        {
+            "id": "VD",
+            "name": "Vorden",
+            "travel_time_min": 85,
+            "travel_time_planned": "1:25"
+        },
+        {
+            "id": "VZ",
+            "name": "Vriezenveen",
+            "travel_time_min": 124,
+            "travel_time_planned": "2:04"
+        },
+        {
+            "id": "VHP",
+            "name": "Vroomshoop",
+            "travel_time_min": 117,
+            "travel_time_planned": "1:57"
+        },
+        {
+            "id": "VG",
+            "name": "Vught",
+            "travel_time_min": 56,
+            "travel_time_planned": "0:56"
+        },
+        {
+            "id": "WAD",
+            "name": "Waddinxveen",
+            "travel_time_min": 50,
+            "travel_time_planned": "0:50"
+        },
+        {
+            "id": "WADN",
+            "name": "Waddinxveen Noord",
+            "travel_time_min": 52,
+            "travel_time_planned": "0:52"
+        },
+        {
+            "id": "WFM",
+            "name": "Warffum",
+            "travel_time_min": 225,
+            "travel_time_planned": "3:45"
+        },
+        {
+            "id": "WT",
+            "name": "Weert",
+            "travel_time_min": 80,
+            "travel_time_planned": "1:20"
+        },
+        {
+            "id": "WP",
+            "name": "Weesp",
+            "travel_time_min": 58,
+            "travel_time_planned": "0:58"
+        },
+        {
+            "id": "WL",
+            "name": "Wehl",
+            "travel_time_min": 84,
+            "travel_time_planned": "1:24"
+        },
+        {
+            "id": "WTV",
+            "name": "Westervoort",
+            "travel_time_min": 64,
+            "travel_time_planned": "1:04"
+        },
+        {
+            "id": "WZ",
+            "name": "Wezep",
+            "travel_time_min": 86,
+            "travel_time_planned": "1:26"
+        },
+        {
+            "id": "WDN",
+            "name": "Wierden",
+            "travel_time_min": 103,
+            "travel_time_planned": "1:43"
+        },
+        {
+            "id": "WC",
+            "name": "Wijchen",
+            "travel_time_min": 84,
+            "travel_time_planned": "1:24"
+        },
+        {
+            "id": "WH",
+            "name": "Wijhe",
+            "travel_time_min": 88,
+            "travel_time_planned": "1:28"
+        },
+        {
+            "id": "WS",
+            "name": "Winschoten",
+            "travel_time_min": 234,
+            "travel_time_planned": "3:54"
+        },
+        {
+            "id": "WSM",
+            "name": "Winsum",
+            "travel_time_min": 215,
+            "travel_time_planned": "3:35"
+        },
+        {
+            "id": "WW",
+            "name": "Winterswijk",
+            "travel_time_min": 111,
+            "travel_time_planned": "1:51"
+        },
+        {
+            "id": "WWW",
+            "name": "Winterswijk West",
+            "travel_time_min": 108,
+            "travel_time_planned": "1:48"
+        },
+        {
+            "id": "WD",
+            "name": "Woerden",
+            "travel_time_min": 24,
+            "travel_time_planned": "0:24"
+        },
+        {
+            "id": "WF",
+            "name": "Wolfheze",
+            "travel_time_min": 56,
+            "travel_time_planned": "0:56"
+        },
+        {
+            "id": "WV",
+            "name": "Wolvega",
+            "travel_time_min": 109,
+            "travel_time_planned": "1:49"
+        },
+        {
+            "id": "WK",
+            "name": "Workum",
+            "travel_time_min": 190,
+            "travel_time_planned": "3:10"
+        },
+        {
+            "id": "WM",
+            "name": "Wormerveer",
+            "travel_time_min": 75,
+            "travel_time_planned": "1:15"
+        },
+        {
+            "id": "ZD",
+            "name": "Zaandam",
+            "travel_time_min": 63,
+            "travel_time_planned": "1:03"
+        },
+        {
+            "id": "ZDK",
+            "name": "Zaandam Kogerveld",
+            "travel_time_min": 77,
+            "travel_time_planned": "1:17"
+        },
+        {
+            "id": "ZZS",
+            "name": "Zaandijk Zaanse Schans",
+            "travel_time_min": 72,
+            "travel_time_planned": "1:12"
+        },
+        {
+            "id": "ZBM",
+            "name": "Zaltbommel",
+            "travel_time_min": 27,
+            "travel_time_planned": "0:27"
+        },
+        {
+            "id": "ZVT",
+            "name": "Zandvoort aan Zee",
+            "travel_time_min": 83,
+            "travel_time_planned": "1:23"
+        },
+        {
+            "id": "ZA",
+            "name": "Zetten-Andelst",
+            "travel_time_min": 56,
+            "travel_time_planned": "0:56"
+        },
+        {
+            "id": "ZV",
+            "name": "Zevenaar",
+            "travel_time_min": 71,
+            "travel_time_planned": "1:11"
+        },
+        {
+            "id": "ZVB",
+            "name": "Zevenbergen",
+            "travel_time_min": 112,
+            "travel_time_planned": "1:52"
+        },
+        {
+            "id": "ZTM",
+            "name": "Zoetermeer",
+            "travel_time_min": 47,
+            "travel_time_planned": "0:47"
+        },
+        {
+            "id": "ZTMO",
+            "name": "Zoetermeer Oost",
+            "travel_time_min": 44,
+            "travel_time_planned": "0:44"
+        },
+        {
+            "id": "ZB",
+            "name": "Zuidbroek",
+            "travel_time_min": 222,
+            "travel_time_planned": "3:42"
+        },
+        {
+            "id": "ZH",
+            "name": "Zuidhorn",
+            "travel_time_min": 176,
+            "travel_time_planned": "2:56"
+        },
+        {
+            "id": "ZP",
+            "name": "Zutphen",
+            "travel_time_min": 73,
+            "travel_time_planned": "1:13"
+        },
+        {
             "id": "ZWD",
             "name": "Zwijndrecht",
-            "travel_time_min": 173,
-            "travel_time_planned": "2:53"
+            "travel_time_min": 85,
+            "travel_time_planned": "1:25"
         },
         {
             "id": "ZL",
             "name": "Zwolle",
-            "travel_time_min": 35,
-            "travel_time_planned": "0:35"
+            "travel_time_min": 68,
+            "travel_time_planned": "1:08"
         }
     ]
 }
